@@ -1,0 +1,1034 @@
+﻿Log file open, 10/02/19 18:24:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JessiesGirl
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.267021
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal Engine 4.2/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.03-00.24.51:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.03-00.24.51:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.03-00.24.51:041][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.03-00.24.51:046][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.03-00.24.51:046][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.03-00.24.51:047][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.03-00.24.51:047][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.03-00.24.51:047][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.03-00.24.51:055][  0]LogHAL: Display: Platform has ~ 16 GB [17033236480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.03-00.24.51:055][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.03-00.24.51:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.03-00.24.51:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.03-00.24.51:056][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.03-00.24.51:056][  0]LogInit: Computer: LAPTOP-13PSO9BT
+[2019.10.03-00.24.51:056][  0]LogInit: User: malbe
+[2019.10.03-00.24.51:056][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.03-00.24.51:056][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.03-00.24.51:056][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.03-00.24.51:056][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.03-00.24.51:056][  0]LogMemory: Process Physical Memory: 97.15 MB used, 97.15 MB peak
+[2019.10.03-00.24.51:056][  0]LogMemory: Process Virtual Memory: 89.25 MB used, 89.25 MB peak
+[2019.10.03-00.24.51:056][  0]LogMemory: Physical Memory: 7039.50 MB used,  9204.66 MB free, 16244.16 MB total
+[2019.10.03-00.24.51:056][  0]LogMemory: Virtual Memory: 4642.20 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.10.03-00.24.51:080][  0]LogInit: Using OS detected language (en-US).
+[2019.10.03-00.24.51:080][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.03-00.24.51:081][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.03-00.24.51:250][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.03-00.24.51:295][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.03-00.24.51:295][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.03-00.24.51:524][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.03-00.24.51:524][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.03-00.24.51:600][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.10.03-00.24.51:600][  0]LogD3D11RHI:       6052/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.03-00.24.51:629][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.10.03-00.24.51:629][  0]LogD3D11RHI:       128/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.03-00.24.51:632][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.03-00.24.51:632][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.03-00.24.51:632][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.03-00.24.51:641][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.03-00.24.51:641][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.03-00.24.51:641][  0]LogWindows: EnumDisplayDevices:
+[2019.10.03-00.24.51:641][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.10.03-00.24.51:641][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.10.03-00.24.51:642][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.10.03-00.24.51:642][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.10.03-00.24.51:642][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.03-00.24.51:643][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.03-00.24.51:643][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.03-00.24.51:643][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.03-00.24.51:643][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.10.03-00.24.51:643][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2019.10.03-00.24.51:643][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2019.10.03-00.24.51:643][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.10.03-00.24.51:693][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.03-00.24.51:704][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.03-00.24.51:704][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.03-00.24.51:704][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.03-00.24.51:712][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.03-00.24.52:129][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.03-00.24.52:143][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.03-00.24.52:156][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.03-00.24.52:169][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.03-00.24.52:183][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.03-00.24.52:196][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.03-00.24.52:210][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.03-00.24.52:222][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.03-00.24.52:229][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.03-00.24.52:304][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.03-00.24.52:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.03-00.24.52:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.03-00.24.52:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.03-00.24.52:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.03-00.24.52:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.03-00.24.52:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.03-00.24.52:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.03-00.24.52:305][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.03-00.24.52:306][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.03-00.24.52:356][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.03-00.24.52:356][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.03-00.24.52:380][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.03-00.24.52:380][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.03-00.24.52:398][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.03-00.24.52:409][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.03-00.24.52:422][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.03-00.24.52:434][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.03-00.24.52:481][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.03-00.24.52:481][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.03-00.24.52:481][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.03-00.24.52:489][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.03-00.24.52:535][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Files/EAE3660/DIVA/JessiesGirl/Intermediate/Shaders/WorkingDirectory/7220/).
+[2019.10.03-00.24.52:535][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/malbe/AppData/Local/Temp/UnrealShaderWorkingDir/8A9D524D42C7439F0AD1F68C12D24F17/'.
+[2019.10.03-00.24.52:536][  0]LogXGEController: Cleaning working directory: C:/Users/malbe/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.03-00.24.52:536][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.03-00.24.52:536][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.03-00.24.52:536][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.03-00.24.53:165][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.03-00.24.53:219][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/malbe/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.03-00.24.53:219][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/malbe/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.03-00.24.53:219][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Files/EAE3660/DIVA/JessiesGirl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.03-00.24.53:219][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.03-00.24.53:219][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Files/EAE3660/DIVA/JessiesGirl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.03-00.24.53:219][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.03-00.24.53:232][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.03-00.24.53:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.03-00.24.53:232][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.03-00.24.53:245][  0]LogDerivedDataCache: Using Local data cache path C:/Users/malbe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.03-00.24.53:245][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.03-00.24.53:245][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.03-00.24.53:269][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.03-00.24.53:270][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.03-00.24.53:271][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.03-00.24.53:362][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.10.03-00.24.53:691][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.03-00.24.53:824][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.03-00.24.53:824][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.03-00.24.53:824][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.03-00.24.53:824][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.03-00.24.53:824][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.03-00.24.53:835][  0]LogNetVersion: JessiesGirl 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2280906462)
+[2019.10.03-00.24.54:263][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.040792 seconds
+[2019.10.03-00.24.54:270][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.03-00.24.54:270][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.03-00.24.54:270][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.03-00.24.55:143][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.03-00.24.55:156][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.03-00.24.55:258][  0]SourceControl: Source control is disabled
+[2019.10.03-00.24.55:258][  0]SourceControl: Source control is disabled
+[2019.10.03-00.24.55:260][  0]SourceControl: Source control is disabled
+[2019.10.03-00.24.55:261][  0]SourceControl: Source control is disabled
+[2019.10.03-00.24.55:341][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.03-00.24.55:429][  0]LogOcInput: OculusInput pre-init called
+[2019.10.03-00.24.56:175][  0]LogEngine: Initializing Engine...
+[2019.10.03-00.24.56:176][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.03-00.24.56:177][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.03-00.24.56:394][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.03-00.24.56:404][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.03-00.24.56:437][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.03-00.24.56:469][  0]LogInit: FAudioDevice initialized.
+[2019.10.03-00.24.56:469][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.03-00.24.56:519][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/malbe/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.03-00.24.56:526][  0]LogInit: Texture streaming: Enabled
+[2019.10.03-00.24.56:542][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.03-00.24.56:566][  0]LogInit: Transaction tracking system initialized
+[2019.10.03-00.24.56:584][  0]BlueprintLog: New page: Editor Load
+[2019.10.03-00.24.56:645][  0]LocalizationService: Localization service is disabled
+[2019.10.03-00.24.56:931][  0]LogFileCache: Scanning file cache for directory 'E:/Files/EAE3660/DIVA/JessiesGirl/Content/' took 0.01s
+[2019.10.03-00.24.56:931][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.03-00.24.56:931][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.03-00.24.57:087][  0]SourceControl: Source control is disabled
+[2019.10.03-00.24.57:087][  0]Cmd: MAP LOAD FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.03-00.24.57:087][  0]LightingResults: New page: Lighting Build
+[2019.10.03-00.24.57:089][  0]MapCheck: New page: Map Check
+[2019.10.03-00.24.57:089][  0]LightingResults: New page: Lighting Build
+[2019.10.03-00.24.57:112][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.03-00.24.57:121][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:122][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:122][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:122][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:127][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:127][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:127][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:127][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:127][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:128][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:128][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:128][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:128][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:128][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:128][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:128][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:153][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:153][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:153][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:154][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:154][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:154][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:154][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:154][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:154][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:154][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:154][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:154][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:154][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:154][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:154][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:154][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:155][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:155][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:155][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:155][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:155][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:155][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:155][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:155][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:155][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:155][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:155][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:155][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:155][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:155][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:156][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:156][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:156][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:156][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:156][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:156][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:156][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:156][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:156][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:156][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:156][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:156][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:156][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:156][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:157][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:157][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:157][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:157][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:157][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:158][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:158][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:158][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:158][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:158][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:158][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:158][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:158][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:158][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:158][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:158][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:158][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:158][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:158][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:159][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:159][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:159][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:159][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:159][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:159][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:159][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:159][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:159][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:159][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:159][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:159][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:160][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:160][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:160][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:160][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:160][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:160][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:160][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:160][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:160][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:160][  0]LogLinker: Warning: Can't find file '/Game/Assets/BarStool/StaticMesh'
+[2019.10.03-00.24.57:160][  0]LoadErrors: Failed to load /Game/Assets/BarStool/StaticMesh.StaticMesh Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:160][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/BarStool/StaticMesh' while loading NULL.
+[2019.10.03-00.24.57:160][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:160][  0]LoadErrors: Failed to load /Game/Assets/Table/BarStoolandTable_Bar_Table.BarStoolandTable_Bar_Table Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:161][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:161][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:161][  0]LoadErrors: Failed to load /Game/Assets/Table/BarStoolandTable_Bar_Table.BarStoolandTable_Bar_Table Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:161][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:161][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:161][  0]LoadErrors: Failed to load /Game/Assets/Table/BarStoolandTable_Bar_Table.BarStoolandTable_Bar_Table Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:161][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:161][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:161][  0]LoadErrors: Failed to load /Game/Assets/Table/BarStoolandTable_Bar_Table.BarStoolandTable_Bar_Table Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:161][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:161][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:161][  0]LoadErrors: Failed to load /Game/Assets/Table/BarStoolandTable_Bar_Table.BarStoolandTable_Bar_Table Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:162][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:162][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:162][  0]LoadErrors: Failed to load /Game/Assets/Table/BarStoolandTable_Bar_Table.BarStoolandTable_Bar_Table Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:162][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:162][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:162][  0]LoadErrors: Failed to load /Game/Assets/Table/BarStoolandTable_Bar_Table.BarStoolandTable_Bar_Table Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:162][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:162][  0]LogLinker: Warning: Can't find file '/Game/Assets/Table/BarStoolandTable_Bar_Table'
+[2019.10.03-00.24.57:162][  0]LoadErrors: Failed to load /Game/Assets/Table/BarStoolandTable_Bar_Table.BarStoolandTable_Bar_Table Referenced by StaticMeshComponent0
+[2019.10.03-00.24.57:162][  0]LogLinker: Warning: Can't find file for asset '/Game/Assets/Table/BarStoolandTable_Bar_Table' while loading NULL.
+[2019.10.03-00.24.57:223][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.03-00.24.57:236][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.03-00.24.57:261][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.03-00.24.57:262][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.03-00.24.57:262][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2019.10.03-00.24.57:262][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.174
+[2019.10.03-00.24.57:377][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-00.24.57:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-00.24.57:394][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-00.24.57:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-00.24.57:406][  0]LogCollectionManager: Loaded 0 collections in 0.000796 seconds
+[2019.10.03-00.24.57:448][  0]LogFileCache: Scanning file cache for directory 'E:/Files/EAE3660/DIVA/JessiesGirl/Saved/Collections/' took 0.01s
+[2019.10.03-00.24.57:448][  0]LogFileCache: Scanning file cache for directory 'E:/Files/EAE3660/DIVA/JessiesGirl/Content/Developers/malbe/Collections/' took 0.01s
+[2019.10.03-00.24.57:448][  0]LogFileCache: Scanning file cache for directory 'E:/Files/EAE3660/DIVA/JessiesGirl/Content/Collections/' took 0.01s
+[2019.10.03-00.24.57:448][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.03-00.24.57:465][  0]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 2732 classes and 659 folders.
+[2019.10.03-00.24.57:470][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.03-00.24.57:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.03-00.24.57:521][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.03-00.24.57:526][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.03-00.24.57:608][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.03-00.24.57:610][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.03-00.24.57:617][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.03-00.24.57:692][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2019.10.03-00.24.57:827][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.03-00.24.57:827][  0]LogLoad: (Engine Initialization) Total time: 8.20 seconds
+[2019.10.03-00.24.57:827][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.03-00.24.57:862][  0]LogAssetRegistry: Asset discovery search completed in 4.5226 seconds
+[2019.10.03-00.24.57:866][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.03-00.24.57:866][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2019.10.03-00.24.57:868][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.03-00.24.57:880][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.24.57:893][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.03-00.25.11:201][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.25.25:098][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.26.19:601][819]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.10.03-00.26.58:007][507]LogEditorViewport: Clicking Background
+[2019.10.03-00.26.59:661][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.27.39:586][215]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.03-00.27.39:879][215]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Downloads/BarStoolandTable.obj)
+[2019.10.03-00.27.40:160][215]LogFbx: Loading FBX Scene from ../../../../../Downloads/BarStoolandTable.obj
+[2019.10.03-00.27.40:268][215]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.03-00.27.41:804][215]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.03-00.27.42:279][215]LogMaterial: Display: Missing cached shader map for material Bar_StoolMat, compiling. 
+[2019.10.03-00.27.42:579][215]LogFbx: Display: Triangulating static mesh Bar_Stool
+[2019.10.03-00.27.43:385][215]LogStaticMesh: Building static mesh BarStoolandTable_Bar_Stool...
+[2019.10.03-00.27.43:707][215]LogStaticMesh: Built static mesh [0.32s] /Game/Assets/BarStoolandTable_Bar_Stool.BarStoolandTable_Bar_Stool
+[2019.10.03-00.27.43:731][215]LogStaticMesh: Warning: BarStoolandTable_Bar_Stool has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.03-00.27.43:732][215]LogStaticMesh: Warning: BarStoolandTable_Bar_Stool has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.03-00.27.43:852][215]LogMaterial: Display: Missing cached shader map for material Bar_TableMat, compiling. 
+[2019.10.03-00.27.43:868][215]LogFbx: Display: Triangulating static mesh Bar_Table
+[2019.10.03-00.27.44:185][215]LogStaticMesh: Building static mesh BarStoolandTable_Bar_Table...
+[2019.10.03-00.27.44:277][215]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/BarStoolandTable_Bar_Table.BarStoolandTable_Bar_Table
+[2019.10.03-00.27.44:349][215]FBXImport: Warning: BarStoolandTable_Bar_Stool has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.03-00.27.44:349][215]FBXImport: Warning: BarStoolandTable_Bar_Stool has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.03-00.27.50:263][385]LogSlate: Window 'Message Log' being destroyed
+[2019.10.03-00.27.50:302][385]LogSlate: Window 'Message Log' being destroyed
+[2019.10.03-00.28.00:454][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.28.08:003][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.28.21:332][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Table/BarStoolandTable_Bar_Stool" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/BarStoolandTable_Bar_Stool.uasset" SILENT=true
+[2019.10.03-00.28.21:437][610]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/BarStoolandTable_Bar_StoolD20EE7F846433D2258C2C89D5F1E7784.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/BarStoolandTable_Bar_Stool.uasset'
+[2019.10.03-00.28.21:489][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Table/BarStoolandTable_Bar_Table" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/BarStoolandTable_Bar_Table.uasset" SILENT=true
+[2019.10.03-00.28.21:515][610]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/BarStoolandTable_Bar_TableE7653310431B9E969F3406A69DF1DB39.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/BarStoolandTable_Bar_Table.uasset'
+[2019.10.03-00.28.21:563][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Table/Bar_StoolMat" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/Bar_StoolMat.uasset" SILENT=true
+[2019.10.03-00.28.21:632][610]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Bar_StoolMat53DC314B4A283B483DB6CBB7FA091782.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/Bar_StoolMat.uasset'
+[2019.10.03-00.28.21:665][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Table/Bar_TableMat" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/Bar_TableMat.uasset" SILENT=true
+[2019.10.03-00.28.21:679][610]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Bar_TableMat6B8C842F4A24633380C85DB69F68216E.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/Bar_TableMat.uasset'
+[2019.10.03-00.28.21:979][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.10.03-00.28.22:003][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.10.03-00.28.22:024][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.10.03-00.28.22:046][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.10.03-00.28.22:073][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.03-00.28.22:095][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.10.03-00.28.28:990][809]LogActorFactory: Actor Factory created BarStoolandTable_Bar_Table
+[2019.10.03-00.28.30:608][887]LogActorFactory: Actor Factory created BarStoolandTable_Bar_Table
+[2019.10.03-00.28.40:598][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.28.43:999][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.28.46:197][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.28.52:316][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarStoolandTable_Bar_Table9)
+[2019.10.03-00.28.55:953][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.29.08:737][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarStoolandTable_Bar_Table9)
+[2019.10.03-00.29.13:809][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.29.32:450][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarStoolandTable_Bar_Table9)
+[2019.10.03-00.29.33:501][763]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (BarStoolandTable_Bar_Table9)
+[2019.10.03-00.29.33:541][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.29.37:156][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.29.46:174][840]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2019.10.03-00.29.46:461][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.29.46:468][840]LogStaticMesh: Building static mesh StaticMesh...
+[2019.10.03-00.29.46:518][840]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Table/StaticMesh.StaticMesh
+[2019.10.03-00.29.48:353][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.29.53:771][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarStoolandTable_Bar_Table9)
+[2019.10.03-00.29.56:003][ 72]Cmd: DELETE
+[2019.10.03-00.29.56:003][ 72]Cmd: ACTOR DELETE
+[2019.10.03-00.29.57:071][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.29.57:221][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-00.29.57:246][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.03-00.29.57:246][ 72]LogEditorActor: Deleted 1 Actors (0.183 secs)
+[2019.10.03-00.29.59:029][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.30.07:798][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.30.13:450][684]LogActorFactory: Actor Factory created StaticMesh
+[2019.10.03-00.30.22:931][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.30.45:222][777]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Downloads\Bar_chair.FBX)
+[2019.10.03-00.30.45:294][777]LogFbx: Loading FBX Scene from E:\Downloads\Bar_chair.FBX
+[2019.10.03-00.30.45:365][777]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.03-00.30.48:430][777]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.03-00.30.48:596][777]LogMaterial: Display: Missing cached shader map for material lather_brown2, compiling. 
+[2019.10.03-00.30.48:622][777]LogStaticMesh: Building static mesh Bar_chair_ChamferCyl147...
+[2019.10.03-00.30.48:634][777]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Stool/Bar_chair_ChamferCyl147.Bar_chair_ChamferCyl147
+[2019.10.03-00.30.48:657][777]LogMaterial: Display: Missing cached shader map for material Chrom, compiling. 
+[2019.10.03-00.30.48:688][777]LogStaticMesh: Building static mesh Bar_chair_Cylinder685...
+[2019.10.03-00.30.48:692][777]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Stool/Bar_chair_Cylinder685.Bar_chair_Cylinder685
+[2019.10.03-00.30.48:701][777]LogFbx: Display: Triangulating static mesh Cylinder686
+[2019.10.03-00.30.48:715][777]LogStaticMesh: Building static mesh Bar_chair_Cylinder686...
+[2019.10.03-00.30.48:719][777]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Stool/Bar_chair_Cylinder686.Bar_chair_Cylinder686
+[2019.10.03-00.30.48:732][777]LogStaticMesh: Building static mesh Bar_chair_Circle013...
+[2019.10.03-00.30.48:736][777]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Stool/Bar_chair_Circle013.Bar_chair_Circle013
+[2019.10.03-00.30.48:738][777]LogStaticMesh: Warning: Bar_chair_Circle013 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.03-00.30.48:738][777]LogStaticMesh: Warning: Bar_chair_Circle013 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.03-00.30.48:749][777]LogStaticMesh: Building static mesh Bar_chair_Cylinder684...
+[2019.10.03-00.30.48:751][777]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Stool/Bar_chair_Cylinder684.Bar_chair_Cylinder684
+[2019.10.03-00.30.48:761][777]LogStaticMesh: Building static mesh Bar_chair_bottom001...
+[2019.10.03-00.30.48:763][777]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Stool/Bar_chair_bottom001.Bar_chair_bottom001
+[2019.10.03-00.30.48:769][777]LogFbx: Display: Triangulating static mesh Cylinder688
+[2019.10.03-00.30.48:785][777]LogStaticMesh: Building static mesh Bar_chair_Cylinder688...
+[2019.10.03-00.30.48:789][777]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Stool/Bar_chair_Cylinder688.Bar_chair_Cylinder688
+[2019.10.03-00.30.48:814][777]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.10.03-00.30.48:814][777]FBXImport: Warning: Bar_chair_Circle013 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.03-00.30.48:814][777]FBXImport: Warning: Bar_chair_Circle013 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.03-00.30.52:960][889]LogSlate: Window 'Message Log' being destroyed
+[2019.10.03-00.30.53:000][889]LogSlate: Window 'Message Log' being destroyed
+[2019.10.03-00.30.59:812][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.31.00:079][232]LogActorFactory: Actor Factory created Bar_chair_bottom001
+[2019.10.03-00.31.02:989][404]LogActorFactory: Actor Factory created Bar_chair_bottom001
+[2019.10.03-00.31.13:282][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.31.27:321][652]Cmd: TRANSACTION UNDO
+[2019.10.03-00.31.27:321][652]LogEditorTransaction: Undo Select Brush Surface
+[2019.10.03-00.31.41:608][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_bottom001)
+[2019.10.03-00.31.43:132][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.31.43:312][463]LogActorFactory: Actor Factory created Bar_chair_Cylinder684
+[2019.10.03-00.31.45:073][567]LogActorFactory: Actor Factory created Bar_chair_Cylinder684
+[2019.10.03-00.31.55:933][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.31.56:310][193]LogActorFactory: Actor Factory created Bar_chair_ChamferCyl147
+[2019.10.03-00.31.59:401][374]LogActorFactory: Actor Factory created Bar_chair_ChamferCyl147
+[2019.10.03-00.32.04:102][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_ChamferCyl147)
+[2019.10.03-00.32.04:709][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_ChamferCyl147)
+[2019.10.03-00.32.17:143][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.32.17:680][403]LogActorFactory: Actor Factory created Bar_chair_Circle013
+[2019.10.03-00.32.20:358][561]LogActorFactory: Actor Factory created Bar_chair_Circle013
+[2019.10.03-00.32.41:320][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.32.41:528][761]LogActorFactory: Actor Factory created Bar_chair_Cylinder688
+[2019.10.03-00.32.43:957][904]LogActorFactory: Actor Factory created Bar_chair_Cylinder688
+[2019.10.03-00.32.48:210][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.33.07:979][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.33.10:847][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Circle013)
+[2019.10.03-00.33.18:147][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.33.20:744][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Cylinder684)
+[2019.10.03-00.33.22:926][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.33.23:120][192]LogActorFactory: Actor Factory created Bar_chair_Cylinder686
+[2019.10.03-00.33.26:498][391]LogActorFactory: Actor Factory created Bar_chair_Cylinder686
+[2019.10.03-00.33.55:148][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.33.55:998][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Circle013)
+[2019.10.03-00.34.04:935][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.34.18:635][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.34.27:471][985]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder684)
+[2019.10.03-00.34.31:594][229]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Circle013)
+[2019.10.03-00.34.34:807][417]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.34.35:795][475]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder686)
+[2019.10.03-00.34.36:682][527]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Circle013)
+[2019.10.03-00.34.38:922][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_bottom001)
+[2019.10.03-00.34.41:703][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.34.42:912][893]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder686)
+[2019.10.03-00.34.43:629][935]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Circle013)
+[2019.10.03-00.34.51:421][393]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.34.52:025][427]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder686)
+[2019.10.03-00.34.52:835][475]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Circle013)
+[2019.10.03-00.35.00:197][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.35.05:039][121]Cmd: TRANSACTION UNDO
+[2019.10.03-00.35.05:039][121]LogEditorTransaction: Undo Create Actors
+[2019.10.03-00.35.06:598][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_ChamferCyl147)
+[2019.10.03-00.35.08:027][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.35.16:325][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.35.17:356][554]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/Stool/lather_brown2.lather_brown2
+[2019.10.03-00.35.17:380][554]LogMaterial: Display: Missing cached shader map for material lather_brown2, compiling. 
+[2019.10.03-00.35.18:574][554]LogMaterial: Display: Missing cached shader map for material lather_brown2, compiling. 
+[2019.10.03-00.35.18:604][554]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.03-00.35.18:619][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.03-00.35.18:723][554]LogSlate: Took 0.016173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.03-00.35.19:259][555]LogSlate: Took 0.002425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.03-00.35.19:580][565]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.03-00.35.20:913][593]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.10.03-00.35.20:913][593]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.10.03-00.35.20:913][593]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.03-00.35.20:913][593]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-00.35.35:757][865]LogSlate: Window 'lather_brown2' being destroyed
+[2019.10.03-00.35.35:798][865]LogSlate: Window 'lather_brown2' being destroyed
+[2019.10.03-00.35.49:934][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_ChamferCyl147)
+[2019.10.03-00.36.00:150][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_bottom001)
+[2019.10.03-00.36.01:007][338]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder686)
+[2019.10.03-00.36.03:417][479]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.36.05:080][576]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Circle013)
+[2019.10.03-00.36.07:341][709]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder684)
+[2019.10.03-00.36.10:540][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.36.25:142][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_ChamferCyl147)
+[2019.10.03-00.36.28:775][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_Cylinder684)
+[2019.10.03-00.36.33:614][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_ChamferCyl147)
+[2019.10.03-00.36.37:158][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.36.50:058][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_bottom001)
+[2019.10.03-00.36.52:664][674]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder684)
+[2019.10.03-00.36.53:262][709]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_ChamferCyl147)
+[2019.10.03-00.36.54:357][774]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder686)
+[2019.10.03-00.36.55:039][814]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Circle013)
+[2019.10.03-00.36.55:797][858]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.36.58:487][ 17]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Bar_chair_ChamferCyl147)
+[2019.10.03-00.36.58:527][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.37.00:424][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.37.05:155][ 58]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2019.10.03-00.37.05:176][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.37.05:183][ 58]LogStaticMesh: Building static mesh StaticMesh...
+[2019.10.03-00.37.05:207][ 58]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Stool/StaticMesh.StaticMesh
+[2019.10.03-00.37.05:214][ 58]LogStaticMesh: Warning: StaticMesh has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2019.10.03-00.37.05:214][ 58]LogStaticMesh: Warning: StaticMesh has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.03-00.37.06:050][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.37.08:193][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_ChamferCyl147)
+[2019.10.03-00.37.10:613][219]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder684)
+[2019.10.03-00.37.11:687][251]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder686)
+[2019.10.03-00.37.13:354][300]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Cylinder688)
+[2019.10.03-00.37.14:270][327]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_chair_Circle013)
+[2019.10.03-00.37.15:160][354]Cmd: DELETE
+[2019.10.03-00.37.15:160][354]Cmd: ACTOR DELETE
+[2019.10.03-00.37.15:167][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-00.37.15:168][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-00.37.15:168][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-00.37.15:168][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-00.37.15:168][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-00.37.15:197][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.03-00.37.15:198][354]LogEditorActor: Deleted 5 Actors (0.038 secs)
+[2019.10.03-00.37.16:623][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_chair_bottom001)
+[2019.10.03-00.37.17:573][492]Cmd: DELETE
+[2019.10.03-00.37.17:573][492]Cmd: ACTOR DELETE
+[2019.10.03-00.37.17:578][492]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.03-00.37.17:603][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.03-00.37.17:603][492]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.10.03-00.37.20:283][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-00.37.26:129][860]LogActorFactory: Actor Factory created StaticMesh
+[2019.10.03-00.37.27:536][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.37.36:445][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.37.37:504][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.10.03-00.37.37:600][390]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.37.37:633][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.03-00.37.38:562][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Minimal_Default80A6D8F14F6E4B7B247B61A55A52756A.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.03-00.37.38:586][390]LogFileHelpers: Saving map 'Minimal_Default' took 0.979
+[2019.10.03-00.37.38:695][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Table/StaticMesh" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/StaticMesh.uasset" SILENT=true
+[2019.10.03-00.37.38:748][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/StaticMeshA960AB4C422DC8BD231CEA8CFEF5F034.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Table/StaticMesh.uasset'
+[2019.10.03-00.37.38:777][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/StaticMesh" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/StaticMesh.uasset" SILENT=true
+[2019.10.03-00.37.38:803][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/StaticMesh26976B7E49CD18BAE33E9AAF7DEA700C.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/StaticMesh.uasset'
+[2019.10.03-00.37.38:835][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/Bar_chair_ChamferCyl147" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_ChamferCyl147.uasset" SILENT=true
+[2019.10.03-00.37.38:876][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Bar_chair_ChamferCyl147EDE74D0E408BAB6C747BFA8B23404C5E.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_ChamferCyl147.uasset'
+[2019.10.03-00.37.38:912][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/lather_brown2" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/lather_brown2.uasset" SILENT=true
+[2019.10.03-00.37.38:924][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/lather_brown293AABFE749AA4763E187CEBEA806D0AF.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/lather_brown2.uasset'
+[2019.10.03-00.37.38:962][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/Bar_chair_Cylinder685" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Cylinder685.uasset" SILENT=true
+[2019.10.03-00.37.38:977][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Bar_chair_Cylinder685B9ED50D74E28B1AD1FF7DEBD4AB5C1A1.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Cylinder685.uasset'
+[2019.10.03-00.37.39:029][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/Chrom" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Chrom.uasset" SILENT=true
+[2019.10.03-00.37.39:043][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Chrom63E3C7D647AB719F16AD2B9A70C8FC26.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Chrom.uasset'
+[2019.10.03-00.37.39:080][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/Bar_chair_Cylinder686" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Cylinder686.uasset" SILENT=true
+[2019.10.03-00.37.39:096][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Bar_chair_Cylinder68621ADE806491192E6E29A01A178BEE31C.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Cylinder686.uasset'
+[2019.10.03-00.37.39:130][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/Bar_chair_Circle013" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Circle013.uasset" SILENT=true
+[2019.10.03-00.37.39:145][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Bar_chair_Circle0139F7114334C18F5A60D47F2AFE4D8704D.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Circle013.uasset'
+[2019.10.03-00.37.39:181][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/Bar_chair_Cylinder684" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Cylinder684.uasset" SILENT=true
+[2019.10.03-00.37.39:222][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Bar_chair_Cylinder6845A4FF1CF4DFA4BA60D8D5D9DB92A05B7.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Cylinder684.uasset'
+[2019.10.03-00.37.39:240][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/Bar_chair_bottom001" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_bottom001.uasset" SILENT=true
+[2019.10.03-00.37.39:255][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Bar_chair_bottom001F1324B714AF00B2A2E54CEAD83C584A3.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_bottom001.uasset'
+[2019.10.03-00.37.39:291][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Stool/Bar_chair_Cylinder688" FILE="../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Cylinder688.uasset" SILENT=true
+[2019.10.03-00.37.39:314][390]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Bar_chair_Cylinder688C68D051F40BCB1E9152EC789D464AEF7.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/Assets/Stool/Bar_chair_Cylinder688.uasset'
+[2019.10.03-00.37.40:341][410]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.37.41:433][430]MapCheck: New page: Map Check
+[2019.10.03-00.37.41:501][430]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.03-00.37.41:502][430]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.03-00.37.41:799][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.10.03-00.37.41:834][430]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.03-00.37.41:844][430]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.03-00.37.41:851][430]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.03-00.37.41:860][430]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.03-00.37.41:871][430]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.03-00.37.41:884][430]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.03-00.37.41:898][430]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.10.03-00.37.41:972][430]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.03-00.37.44:636][430]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.03-00.37.44:636][430]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.03-00.37.44:636][430]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.03-00.37.44:636][430]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.03-00.37.44:636][430]TextureStreamingBuild: Display: Compiling optional shaders took 2.812 seconds.
+[2019.10.03-00.37.44:806][430]LogLevel: Display: Export Material TexCoord Scales took 0.170 seconds.
+[2019.10.03-00.37.44:867][430]TextureStreamingBuild: Display: Build Texture Streaming took 0.028 seconds.
+[2019.10.03-00.37.44:892][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.03-00.37.44:968][430]LightingResults: New page: Lighting Build - Oct 2, 2019, 12:37:44 PM
+[2019.10.03-00.37.45:121][430]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.03-00.37.45:193][430]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.03-00.37.45:206][430]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.03-00.37.45:721][430]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.03-00.37.45:721][430]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7220
+[2019.10.03-00.37.52:641][430]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.03-00.37.52:642][430]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.03-00.37.52:642][430]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.03-00.37.52:642][430]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.03-00.37.52:642][430]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.03-00.37.52:642][430]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.03-00.37.52:868][430]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.03-00.37.52:868][430]MapCheck: New page: Minimal_Default - Oct 2, 2019, 12:37:52 PM
+[2019.10.03-00.37.52:870][430]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.10.03-00.37.52:914][430]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.03-00.37.52:991][430]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 122.16ms to complete.
+[2019.10.03-00.37.53:015][430]LogEditorBuildUtils: Build time 0:11
+[2019.10.03-00.37.53:026][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.37.53:054][430]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Redd, compiling. 
+[2019.10.03-00.37.53:090][430]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Redd, compiling. 
+[2019.10.03-00.37.53:767][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.03-00.37.56:450][465]Job is a success!
+[2019.10.03-00.37.56:876][466]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.103s
+[2019.10.03-00.37.56:876][466]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.03-00.37.56:876][466]LogVolumetricLightmapImport:      BrickData 35x5x5 = 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.10.03-00.37.56:876][466]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.03-00.37.56:876][466]LogVolumetricLightmapImport:          0: 14.3% covering 100.0% of volume
+[2019.10.03-00.37.56:876][466]LogVolumetricLightmapImport:          1: 57.1% covering 6.3% of volume
+[2019.10.03-00.37.56:876][466]LogVolumetricLightmapImport:          2: 28.6% covering 0.0% of volume
+[2019.10.03-00.37.57:040][466]LightingResults: Warning: SpotLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.03-00.37.57:040][466]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.03-00.37.57:040][466]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.03-00.37.57:399][466]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.03-00.37.57:399][466]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.03-00.37.57:399][466]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.10.03-00.37.57:399][466]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.10.03-00.37.57:399][466]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 128X4)
+[2019.10.03-00.37.57:399][466]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X512)
+[2019.10.03-00.37.57:475][466]Lightmass on LAPTOP-13PSO9BT: 2.90 sec total, 137 ms importing, 100 ms setup, 589 ms photons, 2.02 sec processing, 0 ms extra exporting [306/306 mappings]. Threads: 14.0 sec total, 4.82 sec processing.
+[2019.10.03-00.37.57:551][466]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 52 meshes in 3 LightmapResourceClusters (17.3 Meshes per cluster).
+[2019.10.03-00.37.57:580][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.03-00.37.57:623][466]LogStaticLightingSystem: Illumination: 12.5 sec (240 ms encoding lightmaps, 98 ms encoding shadowmaps)
+[2019.10.03-00.37.57:623][466]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.10.03-00.37.57:623][466]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.0 MB streaming, 1.3 MB non-streaming), 2 textures
+[2019.10.03-00.38.02:687][466]DumpUnbuiltLightIteractions
+[2019.10.03-00.38.02:687][466]Lights with unbuilt interactions: 0
+[2019.10.03-00.38.02:687][466]
+[2019.10.03-00.38.02:687][466]Primitives with unbuilt interactions: 0
+[2019.10.03-00.38.02:951][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.38.03:360][467]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.03-00.38.03:361][467]MapCheck: New page: Minimal_Default - Oct 2, 2019, 12:38:03 PM
+[2019.10.03-00.38.03:361][467]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.03-00.38.03:361][467]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.794ms to complete.
+[2019.10.03-00.38.05:031][498]LogSlate: Window 'Message Log' being destroyed
+[2019.10.03-00.38.05:085][498]LogSlate: Window 'Message Log' being destroyed
+[2019.10.03-00.38.09:940][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.38.11:158][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.03-00.38.11:176][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-00.38.11:225][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.03-00.38.11:465][652]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Minimal_DefaultB202F5024E4D71335DE179B38BAE862F.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.03-00.38.11:484][652]LogFileHelpers: Saving map 'Minimal_Default' took 0.286
+[2019.10.03-00.38.11:548][652]LogSavePackage: Moving '../../../../../Files/EAE3660/DIVA/JessiesGirl/Saved/Minimal_Default_BuiltData7FC6A94E419DD99A78650AB7F42ECFA9.tmp' to '../../../../../Files/EAE3660/DIVA/JessiesGirl/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'

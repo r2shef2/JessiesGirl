@@ -688,3 +688,727 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-17.23.30:478][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.10.24-17.23.30:516][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2019.10.24-17.23.30:799][402]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/ShotSceneDACFFCCC4FC9135F295926B368495309.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap'
+[2019.10.24-17.24.05:212][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.24.50:746][821]Cmd: DELETE
+[2019.10.24-17.24.50:746][821]Cmd: ACTOR DELETE
+[2019.10.24-17.24.50:763][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.24.50:819][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rosy/Rosy_DancingIdle.Rosy_DancingIdle
+[2019.10.24-17.24.50:819][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rosy/Rosy_DancingIdle.Rosy_DancingIdle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.50:827][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rick/Rick_Dancing2.Rick_Dancing2
+[2019.10.24-17.24.50:827][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rick/Rick_Dancing2.Rick_Dancing2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.51:026][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Jesse/Jesse_Dancing.Jesse_Dancing
+[2019.10.24-17.24.51:026][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Jesse/Jesse_Dancing.Jesse_Dancing) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.51:097][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rick/Rick_Dancing1.Rick_Dancing1
+[2019.10.24-17.24.51:097][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rick/Rick_Dancing1.Rick_Dancing1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.51:382][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Goldie/Goldie_Dancing2.Goldie_Dancing2
+[2019.10.24-17.24.51:382][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Goldie/Goldie_Dancing2.Goldie_Dancing2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.51:507][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rosy/Rosy_Dancing.Rosy_Dancing
+[2019.10.24-17.24.51:507][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rosy/Rosy_Dancing.Rosy_Dancing) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.51:523][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Goldie/Goldie_Dancing1.Goldie_Dancing1
+[2019.10.24-17.24.51:523][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Goldie/Goldie_Dancing1.Goldie_Dancing1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.51:547][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rick/Rick_KnockedOut.Rick_KnockedOut
+[2019.10.24-17.24.51:547][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rick/Rick_KnockedOut.Rick_KnockedOut) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.51:550][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Jesse/Jesse_Punching.Jesse_Punching
+[2019.10.24-17.24.51:550][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Jesse/Jesse_Punching.Jesse_Punching) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.51:551][821]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Goldie/Goldie_Walking.Goldie_Walking
+[2019.10.24-17.24.51:551][821]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Goldie/Goldie_Walking.Goldie_Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.24-17.24.51:598][821]LogEditorActor: Deleted Actor: Brush
+[2019.10.24-17.24.51:619][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.24-17.24.51:642][821]LogEditorActor: Deleted 1 Actors (0.895 secs)
+[2019.10.24-17.24.57:061][271]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.24-17.25.00:979][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.25.10:005][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.25.18:332][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.25.26:604][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.25.36:212][178]Cmd: TRANSACTION UNDO
+[2019.10.24-17.25.36:213][178]LogEditorTransaction: Undo Move Actors
+[2019.10.24-17.25.36:549][202]Cmd: TRANSACTION UNDO
+[2019.10.24-17.25.36:549][202]LogEditorTransaction: Undo Move Actors
+[2019.10.24-17.25.39:487][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.25.44:587][783]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.24-17.25.46:671][934]Cmd: TRANSACTION UNDO
+[2019.10.24-17.25.46:671][934]LogEditorTransaction: Undo Move Actors
+[2019.10.24-17.25.52:197][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.25.58:945][966]MapCheck: New page: Map Check
+[2019.10.24-17.25.58:954][966]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.24-17.25.58:955][966]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.24-17.25.59:020][966]LightingResults: New page: Lighting Build - Oct 24, 2019, 5:25:59 AM
+[2019.10.24-17.25.59:072][966]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.24-17.25.59:136][966]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.24-17.25.59:152][966]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.24-17.26.00:177][966]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.24-17.26.00:177][966]LogSwarmInterface: [TryOpenConnection] Local Process ID is 35492
+[2019.10.24-17.26.03:175][966]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.24-17.26.03:176][966]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.24-17.26.03:176][966]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.24-17.26.03:176][966]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.24-17.26.03:176][966]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.24-17.26.03:176][966]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.24-17.26.03:364][966]LogEditorBuildUtils: Build time 0:04
+[2019.10.24-17.26.03:378][966]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Chrome, compiling. 
+[2019.10.24-17.26.03:387][966]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Chrome, compiling. 
+[2019.10.24-17.26.03:415][967]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceramic_Tile_Checker, compiling. 
+[2019.10.24-17.26.03:427][967]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceramic_Tile_Checker, compiling. 
+[2019.10.24-17.26.03:467][968]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Tiles, compiling. 
+[2019.10.24-17.26.03:475][968]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Tiles, compiling. 
+[2019.10.24-17.26.03:500][969]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2019.10.24-17.26.03:512][969]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2019.10.24-17.26.03:527][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2019.10.24-17.26.03:536][970]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2019.10.24-17.26.06:100][971]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.24-17.26.06:434][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.10.24-17.26.09:216][118]Job is a success!
+[2019.10.24-17.26.09:272][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.26.09:318][119]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2019.10.24-17.26.09:318][119]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.24-17.26.09:318][119]LogVolumetricLightmapImport:      BrickData 45x5x5 = 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.10.24-17.26.09:318][119]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.24-17.26.09:318][119]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2019.10.24-17.26.09:318][119]LogVolumetricLightmapImport:          1: 44.4% covering 6.3% of volume
+[2019.10.24-17.26.09:318][119]LogVolumetricLightmapImport:          2: 44.4% covering 0.1% of volume
+[2019.10.24-17.26.09:398][119]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.24-17.26.09:601][119]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.24-17.26.09:601][119]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.10.24-17.26.09:601][119]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.10.24-17.26.09:601][119]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.24-17.26.09:601][119]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 128X64)
+[2019.10.24-17.26.09:602][119]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X512)
+[2019.10.24-17.26.09:643][119]Lightmass on eae-n-054: 2.62 sec total, 197 ms importing, 84 ms setup, 558 ms photons, 1.72 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 11.9 sec total, 5.50 sec processing.
+[2019.10.24-17.26.09:659][119]LogStaticLightingSystem: ShotScene_BuiltData storing lightmap data for 52 meshes in 3 LightmapResourceClusters (17.3 Meshes per cluster).
+[2019.10.24-17.26.09:688][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.24-17.26.09:715][119]LogStaticLightingSystem: Illumination: 10.6 sec (139 ms encoding lightmaps, 66 ms encoding shadowmaps)
+[2019.10.24-17.26.09:715][119]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.10.24-17.26.09:715][119]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.0 MB streaming, 1.3 MB non-streaming), 2 textures
+[2019.10.24-17.26.10:194][119]DumpUnbuiltLightIteractions
+[2019.10.24-17.26.10:194][119]Lights with unbuilt interactions: 0
+[2019.10.24-17.26.10:194][119]
+[2019.10.24-17.26.10:194][119]Primitives with unbuilt interactions: 0
+[2019.10.24-17.26.10:264][120]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.24-17.26.10:264][120]MapCheck: New page: ShotScene - Oct 24, 2019, 5:26:10 AM
+[2019.10.24-17.26.10:266][120]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.26.10:267][120]MapCheck: Warning: Starter_Background_Cue2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.26.10:270][120]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 5.813ms to complete.
+[2019.10.24-17.26.12:487][312]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.26.12:493][312]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.26.15:334][516]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.10.24-17.26.19:180][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.26.26:872][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.26.27:671][628]MapCheck: New page: Map Check
+[2019.10.24-17.26.27:681][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.26.27:685][628]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.24-17.26.27:686][628]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.24-17.26.27:741][628]LightingResults: New page: Lighting Build - Oct 24, 2019, 5:26:27 AM
+[2019.10.24-17.26.27:751][628]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.24-17.26.27:760][628]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.24-17.26.27:760][628]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.24-17.26.27:761][628]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.24-17.26.27:761][628]LogSwarmInterface: [TryOpenConnection] Local Process ID is 35492
+[2019.10.24-17.26.32:317][628]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.24-17.26.32:317][628]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.24-17.26.32:317][628]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.24-17.26.32:317][628]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.24-17.26.32:317][628]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.24-17.26.32:317][628]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.24-17.26.32:449][628]LogEditorBuildUtils: Build time 0:04
+[2019.10.24-17.26.32:487][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.24-17.26.34:840][773]Job is a success!
+[2019.10.24-17.26.34:870][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.26.34:915][774]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.10.24-17.26.34:915][774]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.24-17.26.34:915][774]LogVolumetricLightmapImport:      BrickData 45x5x5 = 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.10.24-17.26.34:915][774]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.24-17.26.34:915][774]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2019.10.24-17.26.34:915][774]LogVolumetricLightmapImport:          1: 44.4% covering 6.3% of volume
+[2019.10.24-17.26.34:915][774]LogVolumetricLightmapImport:          2: 44.4% covering 0.1% of volume
+[2019.10.24-17.26.35:172][774]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.10.24-17.26.35:172][774]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.24-17.26.35:172][774]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.24-17.26.35:172][774]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.10.24-17.26.35:172][774]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 128X64)
+[2019.10.24-17.26.35:172][774]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 512X512)
+[2019.10.24-17.26.35:189][774]Lightmass on eae-n-054: 2.29 sec total, 148 ms importing, 86 ms setup, 586 ms photons, 1.44 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 9.98 sec total, 4.73 sec processing.
+[2019.10.24-17.26.35:192][774]LogStaticLightingSystem: ShotScene_BuiltData storing lightmap data for 52 meshes in 3 LightmapResourceClusters (17.3 Meshes per cluster).
+[2019.10.24-17.26.35:219][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.10.24-17.26.35:235][774]LogStaticLightingSystem: Illumination: 7.46 sec (120 ms encoding lightmaps, 60 ms encoding shadowmaps)
+[2019.10.24-17.26.35:235][774]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.10.24-17.26.35:235][774]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.0 MB streaming, 1.3 MB non-streaming), 2 textures
+[2019.10.24-17.26.35:330][774]DumpUnbuiltLightIteractions
+[2019.10.24-17.26.35:330][774]Lights with unbuilt interactions: 0
+[2019.10.24-17.26.35:330][774]
+[2019.10.24-17.26.35:330][774]Primitives with unbuilt interactions: 0
+[2019.10.24-17.26.35:335][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.26.35:384][775]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.24-17.26.35:384][775]MapCheck: New page: ShotScene - Oct 24, 2019, 5:26:35 AM
+[2019.10.24-17.26.35:384][775]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.26.35:384][775]MapCheck: Warning: Starter_Background_Cue2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.26.35:385][775]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.856ms to complete.
+[2019.10.24-17.26.39:273][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.26.49:578][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.26.58:696][925]MapCheck: New page: Map Check
+[2019.10.24-17.26.58:707][925]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.24-17.26.58:707][925]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.24-17.26.58:762][925]LightingResults: New page: Lighting Build - Oct 24, 2019, 5:26:58 AM
+[2019.10.24-17.26.58:769][925]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.24-17.26.58:774][925]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.24-17.26.58:774][925]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.24-17.26.58:775][925]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.24-17.26.58:775][925]LogSwarmInterface: [TryOpenConnection] Local Process ID is 35492
+[2019.10.24-17.27.03:288][925]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.24-17.27.03:288][925]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.24-17.27.03:288][925]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.24-17.27.03:288][925]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.24-17.27.03:288][925]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.24-17.27.03:288][925]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.24-17.27.03:411][925]LogEditorBuildUtils: Build time 0:04
+[2019.10.24-17.27.03:459][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.10.24-17.27.05:809][ 79]Job is a success!
+[2019.10.24-17.27.05:886][ 81]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.10.24-17.27.05:886][ 81]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.24-17.27.05:886][ 81]LogVolumetricLightmapImport:      BrickData 45x5x5 = 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.10.24-17.27.05:886][ 81]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.24-17.27.05:886][ 81]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2019.10.24-17.27.05:886][ 81]LogVolumetricLightmapImport:          1: 44.4% covering 6.3% of volume
+[2019.10.24-17.27.05:886][ 81]LogVolumetricLightmapImport:          2: 44.4% covering 0.1% of volume
+[2019.10.24-17.27.05:954][ 81]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.24-17.27.06:139][ 81]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.24-17.27.06:139][ 81]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.24-17.27.06:139][ 81]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.10.24-17.27.06:139][ 81]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.10.24-17.27.06:139][ 81]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 128X64)
+[2019.10.24-17.27.06:139][ 81]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X512)
+[2019.10.24-17.27.06:162][ 81]Lightmass on eae-n-054: 2.28 sec total, 137 ms importing, 73 ms setup, 573 ms photons, 1.47 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 10.1 sec total, 4.88 sec processing.
+[2019.10.24-17.27.06:167][ 81]LogStaticLightingSystem: ShotScene_BuiltData storing lightmap data for 52 meshes in 3 LightmapResourceClusters (17.3 Meshes per cluster).
+[2019.10.24-17.27.06:196][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.24-17.27.06:209][ 81]LogStaticLightingSystem: Illumination: 7.42 sec (120 ms encoding lightmaps, 61 ms encoding shadowmaps)
+[2019.10.24-17.27.06:209][ 81]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.10.24-17.27.06:209][ 81]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.0 MB streaming, 1.3 MB non-streaming), 2 textures
+[2019.10.24-17.27.06:302][ 81]DumpUnbuiltLightIteractions
+[2019.10.24-17.27.06:302][ 81]Lights with unbuilt interactions: 0
+[2019.10.24-17.27.06:302][ 81]
+[2019.10.24-17.27.06:302][ 81]Primitives with unbuilt interactions: 0
+[2019.10.24-17.27.06:352][ 82]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.24-17.27.06:352][ 82]MapCheck: New page: ShotScene - Oct 24, 2019, 5:27:06 AM
+[2019.10.24-17.27.06:352][ 82]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.27.06:352][ 82]MapCheck: Warning: Starter_Background_Cue2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.27.06:353][ 82]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1.059ms to complete.
+[2019.10.24-17.27.08:163][248]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.27.08:169][248]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.27.13:530][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.27.14:299][719]MapCheck: New page: Map Check
+[2019.10.24-17.27.14:307][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.27.14:311][719]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.24-17.27.14:311][719]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.24-17.27.14:373][719]LightingResults: New page: Lighting Build - Oct 24, 2019, 5:27:14 AM
+[2019.10.24-17.27.14:383][719]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.24-17.27.14:388][719]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.24-17.27.14:389][719]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.24-17.27.14:389][719]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.24-17.27.14:389][719]LogSwarmInterface: [TryOpenConnection] Local Process ID is 35492
+[2019.10.24-17.27.18:909][719]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.24-17.27.18:910][719]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.24-17.27.18:910][719]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.24-17.27.18:910][719]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.24-17.27.18:910][719]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.24-17.27.18:910][719]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.24-17.27.19:032][719]LogEditorBuildUtils: Build time 0:04
+[2019.10.24-17.27.19:073][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.10.24-17.27.21:435][874]Job is a success!
+[2019.10.24-17.27.21:472][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.27.21:514][875]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.10.24-17.27.21:514][875]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.24-17.27.21:514][875]LogVolumetricLightmapImport:      BrickData 45x5x5 = 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.10.24-17.27.21:514][875]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.24-17.27.21:514][875]LogVolumetricLightmapImport:          0: 11.1% covering 100.0% of volume
+[2019.10.24-17.27.21:514][875]LogVolumetricLightmapImport:          1: 44.4% covering 6.3% of volume
+[2019.10.24-17.27.21:514][875]LogVolumetricLightmapImport:          2: 44.4% covering 0.1% of volume
+[2019.10.24-17.27.21:577][875]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.24-17.27.21:775][875]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.24-17.27.21:775][875]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.10.24-17.27.21:776][875]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.24-17.27.21:776][875]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.10.24-17.27.21:776][875]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 128X64)
+[2019.10.24-17.27.21:776][875]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 512X512)
+[2019.10.24-17.27.21:792][875]Lightmass on eae-n-054: 2.30 sec total, 144 ms importing, 83 ms setup, 569 ms photons, 1.49 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 10.2 sec total, 4.63 sec processing.
+[2019.10.24-17.27.21:806][875]LogStaticLightingSystem: ShotScene_BuiltData storing lightmap data for 52 meshes in 3 LightmapResourceClusters (17.3 Meshes per cluster).
+[2019.10.24-17.27.21:831][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.10.24-17.27.21:845][875]LogStaticLightingSystem: Illumination: 7.44 sec (122 ms encoding lightmaps, 73 ms encoding shadowmaps)
+[2019.10.24-17.27.21:845][875]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.10.24-17.27.21:845][875]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.0 MB streaming, 1.3 MB non-streaming), 2 textures
+[2019.10.24-17.27.21:922][875]DumpUnbuiltLightIteractions
+[2019.10.24-17.27.21:922][875]Lights with unbuilt interactions: 0
+[2019.10.24-17.27.21:922][875]
+[2019.10.24-17.27.21:922][875]Primitives with unbuilt interactions: 0
+[2019.10.24-17.27.21:969][876]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.24-17.27.21:969][876]MapCheck: New page: ShotScene - Oct 24, 2019, 5:27:21 AM
+[2019.10.24-17.27.21:969][876]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.27.21:969][876]MapCheck: Warning: Starter_Background_Cue2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.27.21:970][876]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.702ms to complete.
+[2019.10.24-17.27.23:233][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.27.23:306][  6]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.27.23:310][  6]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.27.30:224][533]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-17.27.40:875][551]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.24-17.27.48:949][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.27.49:510][349]MapCheck: New page: Map Check
+[2019.10.24-17.27.49:514][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.27.49:518][349]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.24-17.27.49:518][349]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.24-17.27.49:567][349]LightingResults: New page: Lighting Build - Oct 24, 2019, 5:27:49 AM
+[2019.10.24-17.27.49:574][349]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.24-17.27.49:578][349]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.24-17.27.49:578][349]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.24-17.27.49:578][349]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.24-17.27.49:578][349]LogSwarmInterface: [TryOpenConnection] Local Process ID is 35492
+[2019.10.24-17.27.54:090][349]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.24-17.27.54:091][349]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.24-17.27.54:091][349]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.24-17.27.54:091][349]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.24-17.27.54:091][349]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.24-17.27.54:091][349]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.24-17.27.54:229][349]LogEditorBuildUtils: Build time 0:04
+[2019.10.24-17.27.54:270][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.24-17.27.56:663][496]Job is a success!
+[2019.10.24-17.27.56:698][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.27.56:739][497]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.10.24-17.27.56:739][497]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.24-17.27.56:739][497]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.10.24-17.27.56:739][497]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.24-17.27.56:739][497]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2019.10.24-17.27.56:739][497]LogVolumetricLightmapImport:          1: 40.0% covering 6.3% of volume
+[2019.10.24-17.27.56:739][497]LogVolumetricLightmapImport:          2: 50.0% covering 0.1% of volume
+[2019.10.24-17.27.56:803][497]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.24-17.27.56:997][497]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.10.24-17.27.56:997][497]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.24-17.27.56:997][497]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.24-17.27.56:997][497]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.10.24-17.27.56:997][497]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 128X64)
+[2019.10.24-17.27.56:997][497]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 512X512)
+[2019.10.24-17.27.57:011][497]Lightmass on eae-n-054: 2.31 sec total, 144 ms importing, 91 ms setup, 576 ms photons, 1.48 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 10.2 sec total, 4.77 sec processing.
+[2019.10.24-17.27.57:024][497]LogStaticLightingSystem: ShotScene_BuiltData storing lightmap data for 52 meshes in 3 LightmapResourceClusters (17.3 Meshes per cluster).
+[2019.10.24-17.27.57:050][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.24-17.27.57:063][497]LogStaticLightingSystem: Illumination: 7.47 sec (132 ms encoding lightmaps, 58 ms encoding shadowmaps)
+[2019.10.24-17.27.57:063][497]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.10.24-17.27.57:063][497]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.0 MB streaming, 1.3 MB non-streaming), 2 textures
+[2019.10.24-17.27.57:104][497]DumpUnbuiltLightIteractions
+[2019.10.24-17.27.57:105][497]Lights with unbuilt interactions: 0
+[2019.10.24-17.27.57:105][497]
+[2019.10.24-17.27.57:105][497]Primitives with unbuilt interactions: 0
+[2019.10.24-17.27.57:151][498]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.24-17.27.57:152][498]MapCheck: New page: ShotScene - Oct 24, 2019, 5:27:57 AM
+[2019.10.24-17.27.57:152][498]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.27.57:152][498]MapCheck: Warning: Starter_Background_Cue2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.27.57:153][498]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.951ms to complete.
+[2019.10.24-17.27.58:550][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.27.58:628][641]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.27.58:635][641]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.28.00:349][749]Cmd: TRANSACTION UNDO
+[2019.10.24-17.28.00:349][749]LogEditorTransaction: Undo Move Actors
+[2019.10.24-17.28.14:821][923]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.10.24-17.28.15:573][990]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.24-17.28.16:884][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.28.26:246][917]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.24-17.28.27:632][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.28.28:401][118]MapCheck: New page: Map Check
+[2019.10.24-17.28.28:406][118]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.28.28:409][118]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.24-17.28.28:409][118]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.24-17.28.28:462][118]LightingResults: New page: Lighting Build - Oct 24, 2019, 5:28:28 AM
+[2019.10.24-17.28.28:469][118]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.24-17.28.28:473][118]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.24-17.28.28:473][118]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.24-17.28.28:474][118]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.24-17.28.28:474][118]LogSwarmInterface: [TryOpenConnection] Local Process ID is 35492
+[2019.10.24-17.28.32:986][118]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.24-17.28.32:986][118]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.24-17.28.32:986][118]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.24-17.28.32:986][118]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.24-17.28.32:986][118]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.24-17.28.32:986][118]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.24-17.28.33:109][118]LogEditorBuildUtils: Build time 0:04
+[2019.10.24-17.28.33:148][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.24-17.28.35:627][270]Job is a success!
+[2019.10.24-17.28.35:687][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.28.35:727][272]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.10.24-17.28.35:727][272]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.24-17.28.35:727][272]LogVolumetricLightmapImport:      BrickData 55x5x5 = 0.0Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.10.24-17.28.35:727][272]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.24-17.28.35:727][272]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2019.10.24-17.28.35:727][272]LogVolumetricLightmapImport:          1: 36.4% covering 6.3% of volume
+[2019.10.24-17.28.35:727][272]LogVolumetricLightmapImport:          2: 54.5% covering 0.1% of volume
+[2019.10.24-17.28.35:799][272]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.24-17.28.36:001][272]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.24-17.28.36:001][272]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.24-17.28.36:001][272]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.10.24-17.28.36:001][272]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.10.24-17.28.36:001][272]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 128X64)
+[2019.10.24-17.28.36:011][272]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 512X512)
+[2019.10.24-17.28.36:038][272]Lightmass on eae-n-054: 2.45 sec total, 133 ms importing, 75 ms setup, 580 ms photons, 1.63 sec processing, 0 ms extra exporting [211/211 mappings]. Threads: 11.2 sec total, 5.26 sec processing.
+[2019.10.24-17.28.36:043][272]LogStaticLightingSystem: ShotScene_BuiltData storing lightmap data for 52 meshes in 3 LightmapResourceClusters (17.3 Meshes per cluster).
+[2019.10.24-17.28.36:069][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.24-17.28.36:083][272]LogStaticLightingSystem: Illumination: 7.59 sec (142 ms encoding lightmaps, 64 ms encoding shadowmaps)
+[2019.10.24-17.28.36:083][272]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.10.24-17.28.36:083][272]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.0 MB streaming, 1.3 MB non-streaming), 2 textures
+[2019.10.24-17.28.37:001][272]DumpUnbuiltLightIteractions
+[2019.10.24-17.28.37:001][272]Lights with unbuilt interactions: 0
+[2019.10.24-17.28.37:001][272]
+[2019.10.24-17.28.37:001][272]Primitives with unbuilt interactions: 0
+[2019.10.24-17.28.37:045][273]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.24-17.28.37:045][273]MapCheck: New page: ShotScene - Oct 24, 2019, 5:28:37 AM
+[2019.10.24-17.28.37:045][273]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.28.37:046][273]MapCheck: Warning: Starter_Background_Cue2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.24-17.28.37:046][273]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1.083ms to complete.
+[2019.10.24-17.28.38:236][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.28.38:302][403]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.28.38:306][403]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-17.28.41:973][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarStoolandTable_Bar_Table2)
+[2019.10.24-17.29.04:727][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-17.29.04:759][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.10.24-17.29.05:043][701]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/ShotSceneE337C3C649BD1E6BEB8078B603E86AA0.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap'
+[2019.10.24-17.29.05:089][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/ShotScene_BuiltData" FILE="../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Scene/ShotScene_BuiltData.uasset" SILENT=true
+[2019.10.24-17.29.05:144][701]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/ShotScene_BuiltData0BE40FC54CA42F1FD59E1297254072E9.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Scene/ShotScene_BuiltData.uasset'
+[2019.10.24-17.29.05:687][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-17.29.05:762][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.10.24-17.29.05:802][756]LogSlate: Window 'JessiesGirl - Unreal Editor' being destroyed
+[2019.10.24-17.29.05:802][756]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.24-17.29.05:916][757]Cmd: QUIT_EDITOR
+[2019.10.24-17.29.06:730][757]LogExit: Preparing to exit.
+[2019.10.24-17.29.07:531][757]LogExit: Editor shut down
+[2019.10.24-17.29.07:531][757]LogExit: Transaction tracking system shut down
+[2019.10.24-17.29.07:642][757]LogExit: Object subsystem successfully closed.
+[2019.10.24-17.29.07:657][757]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.24-17.29.07:660][757]LogD3D11RHI: Shutdown
+[2019.10.24-17.29.07:661][757]LogD3D11RHI: CleanupD3DDevice
+[2019.10.24-17.29.07:661][757]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.24-17.29.07:661][757]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-17.29.07:661][757]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.24-17.29.07:661][757]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-17.29.07:661][757]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.24-17.29.07:661][757]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-17.29.07:806][757]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.24-17.29.07:826][757]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.10.24-17.29.07:826][757]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.10.24-17.29.07:826][757]LogModuleManager: Shutting down and abandoning module WorldBrowser (644)
+[2019.10.24-17.29.07:827][757]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.10.24-17.29.07:827][757]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.10.24-17.29.07:827][757]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.10.24-17.29.07:828][757]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.10.24-17.29.07:828][757]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.10.24-17.29.07:828][757]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.10.24-17.29.07:828][757]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.10.24-17.29.07:828][757]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.10.24-17.29.07:828][757]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.10.24-17.29.07:829][757]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.10.24-17.29.07:830][757]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.10.24-17.29.07:830][757]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.10.24-17.29.07:830][757]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.10.24-17.29.07:830][757]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.10.24-17.29.07:830][757]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.10.24-17.29.07:830][757]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.10.24-17.29.08:035][757]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.10.24-17.29.08:036][757]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.10.24-17.29.08:036][757]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.10.24-17.29.08:036][757]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.10.24-17.29.08:036][757]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.10.24-17.29.08:036][757]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.10.24-17.29.08:036][757]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.10.24-17.29.08:036][757]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.10.24-17.29.08:036][757]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.10.24-17.29.08:036][757]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.10.24-17.29.08:091][757]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.10.24-17.29.08:092][757]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.10.24-17.29.08:093][757]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.10.24-17.29.08:096][757]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.10.24-17.29.08:302][757]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.24-17.29.08:303][757]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.24-17.29.08:405][757]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.10.24-17.29.08:506][757]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.10.24-17.29.08:506][757]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.10.24-17.29.08:507][757]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.10.24-17.29.08:507][757]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.10.24-17.29.08:507][757]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.10.24-17.29.08:507][757]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.10.24-17.29.08:508][757]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.10.24-17.29.08:510][757]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.10.24-17.29.08:594][757]LogDerivedDataCache: Shutdown
+[2019.10.24-17.29.08:594][757]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.10.24-17.29.08:594][757]LogXGEController: Cleaning working directory: C:/Users/u1001862/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.10.24-17.29.08:595][757]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.10.24-17.29.08:596][757]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.10.24-17.29.08:596][757]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.10.24-17.29.08:596][757]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.10.24-17.29.08:596][757]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.10.24-17.29.08:596][757]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.10.24-17.29.08:596][757]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.10.24-17.29.08:596][757]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.10.24-17.29.08:597][757]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.10.24-17.29.08:597][757]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.10.24-17.29.08:602][757]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.10.24-17.29.08:602][757]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.10.24-17.29.08:603][757]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.10.24-17.29.08:603][757]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.10.24-17.29.08:603][757]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.10.24-17.29.08:634][757]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.10.24-17.29.08:634][757]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.24-17.29.08:634][757]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC9D1F759-4F28-B380-315E-3B961AB9575E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=7738145346536f3d619886af9ad6b09c%7C744bb723c6f04a5f82bd8d7fe793ea45%7C7c861e22-1608-470f-9043-95b0995fd26c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.24-17.29.08:663][757]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.10.24-17.29.08:665][757]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.10.24-17.29.08:666][757]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.10.24-17.29.08:672][757]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.10.24-17.29.08:672][757]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.24-17.29.08:673][757]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.24-17.29.08:680][757]LogExit: Exiting.
+[2019.10.24-17.29.08:708][757]Log file closed, 10/24/19 11:29:08

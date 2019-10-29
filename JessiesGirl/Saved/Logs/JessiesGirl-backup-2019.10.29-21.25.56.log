@@ -1,0 +1,1444 @@
+﻿Log file open, 10/29/19 12:03:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JessiesGirl
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288916
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8809G CPU @ 3.10GHz, GPU: Radeon RX Vega M GH Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=liuzhuyi1999 -epicuserid=61de676e3ed24a5ba7ef7afafefae834 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.29-18.03.48:999][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.29-18.03.48:999][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.29-18.03.48:999][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.29-18.03.48:999][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.29-18.03.48:999][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.29-18.03.49:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.29-18.03.49:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.29-18.03.49:000][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.29-18.03.49:004][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.29-18.03.49:004][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.29-18.03.49:005][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.29-18.03.49:005][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.29-18.03.49:005][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.29-18.03.49:018][  0]LogHAL: Display: Platform has ~ 16 GB [17095004160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.29-18.03.49:018][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.29-18.03.49:018][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.29-18.03.49:018][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.29-18.03.49:019][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.10.29-18.03.49:019][  0]LogInit: Computer: eae-n-046
+[2019.10.29-18.03.49:019][  0]LogInit: User: u1243388
+[2019.10.29-18.03.49:019][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.29-18.03.49:019][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.29-18.03.49:020][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.29-18.03.49:020][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.29-18.03.49:020][  0]LogMemory: Process Physical Memory: 97.28 MB used, 97.29 MB peak
+[2019.10.29-18.03.49:020][  0]LogMemory: Process Virtual Memory: 88.88 MB used, 88.88 MB peak
+[2019.10.29-18.03.49:020][  0]LogMemory: Physical Memory: 6572.48 MB used,  9730.59 MB free, 16303.07 MB total
+[2019.10.29-18.03.49:020][  0]LogMemory: Virtual Memory: 4642.21 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.10.29-18.03.49:033][  0]LogInit: Using OS detected language (en-US).
+[2019.10.29-18.03.49:034][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.29-18.03.49:034][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.29-18.03.49:208][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.29-18.03.49:237][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.29-18.03.49:237][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.29-18.03.49:412][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.29-18.03.49:412][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.29-18.03.49:441][  0]LogD3D11RHI:    0. 'Radeon RX Vega M GH Graphics' (Feature Level 11_0)
+[2019.10.29-18.03.49:441][  0]LogD3D11RHI:       4042/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.10.29-18.03.49:455][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.10.29-18.03.49:455][  0]LogD3D11RHI:       128/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.29-18.03.49:457][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.29-18.03.49:457][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.29-18.03.49:457][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.29-18.03.49:465][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.29-18.03.49:465][  0]LogD3D11RHI:     GPU DeviceId: 0x694c (for the marketing name, search the web for "GPU Device Id")
+[2019.10.29-18.03.49:465][  0]LogWindows: EnumDisplayDevices:
+[2019.10.29-18.03.49:466][  0]LogWindows:    0. 'Radeon RX Vega M GH Graphics' (P:1 D:1)
+[2019.10.29-18.03.49:466][  0]LogWindows:    1. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.10.29-18.03.49:466][  0]LogWindows:    2. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.10.29-18.03.49:467][  0]LogWindows:    3. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.10.29-18.03.49:467][  0]LogWindows:    4. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.10.29-18.03.49:467][  0]LogWindows:    5. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.10.29-18.03.49:468][  0]LogWindows:    6. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.10.29-18.03.49:468][  0]LogWindows:    7. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.10.29-18.03.49:468][  0]LogWindows:    8. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.10.29-18.03.49:469][  0]LogWindows:    9. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.10.29-18.03.49:469][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:8 
+[2019.10.29-18.03.49:469][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega M GH Graphics
+[2019.10.29-18.03.49:469][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.50.06 (internal:25.20.15006.9, unified:25.20.15006.9)
+[2019.10.29-18.03.49:469][  0]LogD3D11RHI:      Driver Date: 12-18-2018
+[2019.10.29-18.03.49:469][  0]LogRHI: Texture pool is 2829 MB (70% of 4042 MB)
+[2019.10.29-18.03.49:535][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.29-18.03.49:539][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.29-18.03.49:540][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.29-18.03.49:540][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.29-18.03.49:547][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.10.29-18.03.49:849][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.29-18.03.49:861][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.29-18.03.49:873][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.29-18.03.49:885][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.29-18.03.49:897][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.29-18.03.49:909][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.29-18.03.49:923][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.29-18.03.49:937][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.29-18.03.49:943][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.29-18.03.50:021][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.29-18.03.50:023][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.29-18.03.50:070][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.29-18.03.50:070][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.29-18.03.50:092][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.29-18.03.50:092][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.29-18.03.50:104][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.29-18.03.50:115][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.29-18.03.50:128][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.29-18.03.50:141][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.29-18.03.50:182][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.29-18.03.50:182][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.29-18.03.50:182][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.29-18.03.50:191][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.29-18.03.50:235][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Intermediate/Shaders/WorkingDirectory/10692/).
+[2019.10.29-18.03.50:235][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1243388/AppData/Local/Temp/UnrealShaderWorkingDir/BE47659A40C80306ABB16791D45EB405/'.
+[2019.10.29-18.03.50:237][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.29-18.03.50:237][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.29-18.03.50:237][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.29-18.03.50:757][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.29-18.03.50:813][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/u1243388/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.29-18.03.50:813][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1243388/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.29-18.03.50:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.29-18.03.50:813][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.29-18.03.50:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.29-18.03.50:813][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.29-18.03.50:825][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.29-18.03.50:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.29-18.03.50:825][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.29-18.03.50:837][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1243388/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.29-18.03.50:837][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.29-18.03.50:837][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.29-18.03.50:858][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.29-18.03.50:859][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.29-18.03.50:860][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.29-18.03.50:934][  0]LogAssetRegistry: FAssetRegistry took 0.0322 seconds to start up
+[2019.10.29-18.03.51:240][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.29-18.03.51:362][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.29-18.03.51:362][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.29-18.03.51:362][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.29-18.03.51:362][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.29-18.03.51:362][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.29-18.03.51:372][  0]LogNetVersion: JessiesGirl 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2280906462)
+[2019.10.29-18.03.51:756][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.039019 seconds
+[2019.10.29-18.03.51:762][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.29-18.03.51:762][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.29-18.03.51:762][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.29-18.03.52:493][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.29-18.03.52:507][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.29-18.03.52:606][  0]SourceControl: Source control is disabled
+[2019.10.29-18.03.52:606][  0]SourceControl: Source control is disabled
+[2019.10.29-18.03.52:607][  0]SourceControl: Source control is disabled
+[2019.10.29-18.03.52:608][  0]SourceControl: Source control is disabled
+[2019.10.29-18.03.52:672][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.29-18.03.52:765][  0]LogOcInput: OculusInput pre-init called
+[2019.10.29-18.03.53:358][  0]LogEngine: Initializing Engine...
+[2019.10.29-18.03.53:358][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.29-18.03.53:359][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.29-18.03.53:559][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.29-18.03.53:573][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.29-18.03.53:620][  0]LogInit: XAudio2 using '5 - DELL UZ2315H (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-18.03.53:650][  0]LogInit: FAudioDevice initialized.
+[2019.10.29-18.03.53:650][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.29-18.03.53:730][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/u1243388/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.29-18.03.53:734][  0]LogInit: Texture streaming: Enabled
+[2019.10.29-18.03.53:752][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.29-18.03.53:773][  0]LogInit: Transaction tracking system initialized
+[2019.10.29-18.03.53:796][  0]BlueprintLog: New page: Editor Load
+[2019.10.29-18.03.53:888][  0]LocalizationService: Localization service is disabled
+[2019.10.29-18.03.54:166][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/' took 0.02s
+[2019.10.29-18.03.54:166][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.29-18.03.54:166][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.29-18.03.54:326][  0]SourceControl: Source control is disabled
+[2019.10.29-18.03.54:326][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.29-18.03.54:326][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.29-18.03.54:326][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.29-18.03.54:327][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2019.10.29-18.03.54:327][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.000
+[2019.10.29-18.03.54:430][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-18.03.54:436][  0]LogCollectionManager: Loaded 0 collections in 0.002147 seconds
+[2019.10.29-18.03.54:453][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Collections/' took 0.01s
+[2019.10.29-18.03.54:453][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Developers/u1243388/Collections/' took 0.00s
+[2019.10.29-18.03.54:453][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Collections/' took 0.00s
+[2019.10.29-18.03.54:453][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.29-18.03.54:460][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2732 classes and 659 folders.
+[2019.10.29-18.03.54:466][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.29-18.03.54:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.29-18.03.54:498][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.29-18.03.54:503][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.29-18.03.54:546][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.29-18.03.54:546][  0]LogLoad: (Engine Initialization) Total time: 7.12 seconds
+[2019.10.29-18.03.54:546][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.29-18.03.54:588][  0]LogAssetRegistry: Asset discovery search completed in 3.6767 seconds
+[2019.10.29-18.03.54:590][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.29-18.03.54:590][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.10.29-18.03.54:591][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.29-18.03.54:597][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.29-18.03.54:598][  0]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.29-18.03.54:602][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.29-18.03.54:666][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.29-18.03.54:915][  2]LogRenderer: Reallocating scene render targets to support 800x368 Format 10 NumSamples 1 (Frame:1).
+[2019.10.29-18.03.55:563][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.04.02:180][557]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.29-18.04.02:192][557]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1243388\Downloads\Rosy_FallFlat.fbx)
+[2019.10.29-18.04.02:208][557]LogFbx: Loading FBX Scene from C:\Users\u1243388\Downloads\Rosy_FallFlat.fbx
+[2019.10.29-18.04.02:231][557]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.29-18.04.19:838][557]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(0) Hips
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(1) Spine
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(2) Spine1
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(3) Spine2
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(4) Neck
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(5) Head
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(8) LeftArm
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(10) LeftHand
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.10.29-18.04.19:889][557]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(31) RightShoulder
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(32) RightArm
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(33) RightForeArm
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(34) RightHand
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.10.29-18.04.19:890][557]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(56) LeftLeg
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(57) LeftFoot
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(61) RightLeg
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(62) RightFoot
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(63) RightToeBase
+[2019.10.29-18.04.19:891][557]LogFbx: SortedLinks :(64) RightToe_End
+[2019.10.29-18.04.19:892][557]LogFbx: Parsing AnimStack mixamo.com
+[2019.10.29-18.04.19:893][557]LogLinker: Can't find file '/Game/Assets/Animations/Rosy/Rosy_FallFlat'
+[2019.10.29-18.04.19:893][557]LogLinker: Can't find file '/Game/Assets/Animations/Rosy/Rosy_FallFlat'
+[2019.10.29-18.04.37:139][557]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rosy/Rosy_FallFlat.Rosy_FallFlat
+[2019.10.29-18.04.37:155][557]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Rosy_FallFlat) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-18.04.40:035][733]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_FallFlat.Rosy_FallFlat
+[2019.10.29-18.04.40:042][733]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.29-18.04.40:233][733]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.04.40:237][733]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.10.29-18.04.40:258][733]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.04.40:575][733]LogRenderer: Reallocating scene render targets to support 1144x548 Format 10 NumSamples 1 (Frame:1).
+[2019.10.29-18.04.40:575][733]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.04.47:015][268]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_DancingIdle.Rosy_DancingIdle
+[2019.10.29-18.04.50:615][524]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_Dancing.Rosy_Dancing
+[2019.10.29-18.04.54:634][668]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_Walking.Rosy_Walking
+[2019.10.29-18.05.01:774][944]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Seated_Idle_Anim.Seated_Idle_Anim
+[2019.10.29-18.05.03:066][ 10]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rosy/Rosy_Sitting.Rosy_Sitting
+[2019.10.29-18.05.03:066][ 10]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rosy/Rosy_Sitting.Rosy_Sitting) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-18.05.03:081][ 10]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_Sitting.Rosy_Sitting
+[2019.10.29-18.05.13:205][820]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rosy/Rosy_ShoveReaction.Rosy_ShoveReaction
+[2019.10.29-18.05.13:205][820]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rosy/Rosy_ShoveReaction.Rosy_ShoveReaction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-18.05.13:230][820]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_ShoveReaction.Rosy_ShoveReaction
+[2019.10.29-18.05.16:021][ 12]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_Idle.Rosy_Idle
+[2019.10.29-18.05.18:018][142]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_ShoveReaction.Rosy_ShoveReaction
+[2019.10.29-18.05.20:386][353]LogRenderer: Reallocating scene render targets to support 1208x548 Format 10 NumSamples 1 (Frame:3217).
+[2019.10.29-18.05.31:062][310]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Assets/Animations/Rosy/Seated_Idle.Seated_Idle
+[2019.10.29-18.05.31:074][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.05.31:103][310]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.05.31:323][310]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.29-18.05.31:375][311]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2019.10.29-18.05.37:645][905]LogSlate: Window 'Seated_Idle' being destroyed
+[2019.10.29-18.05.37:649][905]LogSlate: Window 'Seated_Idle' being destroyed
+[2019.10.29-18.05.41:065][243]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Jesse/Jesse_Punching.Jesse_Punching
+[2019.10.29-18.05.41:106][243]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.05.41:142][243]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.05.41:464][243]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.05.46:321][713]LogSlate: Window 'Jesse_Punching' being destroyed
+[2019.10.29-18.05.46:327][713]LogSlate: Window 'Jesse_Punching' being destroyed
+[2019.10.29-18.05.55:963][621]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/Assets/Animations/Rosy/Seated_Idle_PhysicsAsset.Seated_Idle_PhysicsAsset
+[2019.10.29-18.05.56:002][621]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2019.10.29-18.05.56:013][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.05.56:250][621]LogSlate: Took 0.006876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.29-18.05.58:405][756]LogSlate: Window 'Seated_Idle_PhysicsAsset' being destroyed
+[2019.10.29-18.05.58:420][756]LogSlate: Window 'Seated_Idle_PhysicsAsset' being destroyed
+[2019.10.29-18.05.59:641][839]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Seated_Idle_Anim.Seated_Idle_Anim
+[2019.10.29-18.05.59:649][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.05.59:681][839]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.05.59:984][839]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.06.07:408][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.06.07:485][609]LogSlate: Window 'Seated_Idle_Anim' being destroyed
+[2019.10.29-18.06.07:491][609]LogSlate: Window 'Seated_Idle_Anim' being destroyed
+[2019.10.29-18.06.09:045][707]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_Walking.Rosy_Walking
+[2019.10.29-18.06.09:052][707]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.06.09:086][707]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.06.09:410][707]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.06.19:922][807]LogSlate: Window 'Rosy_Walking' being destroyed
+[2019.10.29-18.06.19:929][807]LogSlate: Window 'Rosy_Walking' being destroyed
+[2019.10.29-18.06.23:481][167]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Jesse/Jesse_ListeningToMusic.Jesse_ListeningToMusic
+[2019.10.29-18.06.23:491][167]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.06.23:526][167]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.06.23:856][167]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.06.35:554][311]LogSlate: Window 'Jesse_ListeningToMusic' being destroyed
+[2019.10.29-18.06.35:561][311]LogSlate: Window 'Jesse_ListeningToMusic' being destroyed
+[2019.10.29-18.06.45:770][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Rosy/Rosy_Anim.Rosy_Anim
+[2019.10.29-18.06.45:770][483]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Characters/Rosy/Rosy_Anim.Rosy_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-18.06.45:777][483]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Characters/Rosy/Rosy_Anim.Rosy_Anim
+[2019.10.29-18.06.45:785][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.06.45:820][483]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.06.46:149][483]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.06.47:433][596]LogSlate: Window 'Rosy_Anim' being destroyed
+[2019.10.29-18.06.47:440][596]LogSlate: Window 'Rosy_Anim' being destroyed
+[2019.10.29-18.06.48:863][715]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Assets/Characters/Rosy/Rosy.Rosy
+[2019.10.29-18.06.48:871][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.06.48:904][715]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.06.51:229][852]LogSlate: Window 'Rosy' being destroyed
+[2019.10.29-18.06.51:238][852]LogSlate: Window 'Rosy' being destroyed
+[2019.10.29-18.06.54:636][188]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Characters/Rosy/Rosy_Anim.Rosy_Anim
+[2019.10.29-18.06.54:644][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.06.54:678][188]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.06.54:999][188]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.06.56:871][340]LogSlate: Window 'Rosy_Anim' being destroyed
+[2019.10.29-18.06.56:879][340]LogSlate: Window 'Rosy_Anim' being destroyed
+[2019.10.29-18.07.09:819][741]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.10.29-18.07.09:820][741]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.10.29-18.07.09:820][741]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.10.29-18.07.09:820][741]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.10.29-18.07.09:875][741]LogAIModule: Creating AISystem for world ShotScene
+[2019.10.29-18.07.09:900][741]LogAssetEditorManager: Opening Asset editor for World /Game/Scene/ShotScene.ShotScene
+[2019.10.29-18.07.09:942][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.10.29-18.07.12:884][741]LogSlate: Window 'Save Content' being destroyed
+[2019.10.29-18.07.12:970][741]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Rosy_FallFlatA2884ADE44644B0A1FB2A3AF4607D035.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Assets/Animations/Rosy/Rosy_FallFlat.uasset'
+[2019.10.29-18.07.12:974][741]Cmd: MAP LOAD FILE="../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.29-18.07.12:974][741]LightingResults: New page: Lighting Build
+[2019.10.29-18.07.12:976][741]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.10.29-18.07.12:977][741]LoadErrors: New page: Loading map: ShotScene.umap
+[2019.10.29-18.07.12:977][741]MapCheck: New page: Map Check
+[2019.10.29-18.07.12:977][741]LightingResults: New page: Lighting Build
+[2019.10.29-18.07.12:999][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.29-18.07.13:014][741]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.29-18.07.13:036][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.10.29-18.07.13:072][741]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.29-18.07.13:072][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.227ms to complete.
+[2019.10.29-18.07.13:072][741]LogFileHelpers: Loading map 'ShotScene' took 0.100
+[2019.10.29-18.07.17:319][103]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Sequence/SequenceMaster.SequenceMaster
+[2019.10.29-18.07.29:202][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.07.29:266][272]MapCheck: New page: Map Check
+[2019.10.29-18.07.29:279][272]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.29-18.07.29:279][272]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.29-18.07.29:386][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.29-18.07.29:432][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:443][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:449][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:457][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:464][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:471][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:478][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:489][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:501][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:511][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:522][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:532][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:540][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:548][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:557][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:570][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.10.29-18.07.29:596][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:602][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:612][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:622][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:633][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:645][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:654][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:662][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:671][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:680][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:690][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:700][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:710][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:719][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.29:730][272]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.29-18.07.34:670][272]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.10.29-18.07.34:670][272]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.29-18.07.34:670][272]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.29-18.07.34:670][272]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.29-18.07.34:670][272]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.29-18.07.34:670][272]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.29-18.07.34:670][272]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.29-18.07.34:670][272]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.29-18.07.34:670][272]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.29-18.07.34:670][272]TextureStreamingBuild: Display: Compiling optional shaders took 5.245 seconds.
+[2019.10.29-18.07.34:709][272]LogLevel: Display: Export Material TexCoord Scales took 0.039 seconds.
+[2019.10.29-18.07.34:750][272]TextureStreamingBuild: Display: Build Texture Streaming took 0.042 seconds.
+[2019.10.29-18.07.34:776][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.29-18.07.34:776][272]LightingResults: New page: Lighting Build - Oct 29, 2019, 6:07:34 AM
+[2019.10.29-18.07.34:812][272]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.29-18.07.34:864][272]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.29-18.07.34:877][272]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.29-18.07.35:387][272]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.29-18.07.35:388][272]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10692
+[2019.10.29-18.07.38:909][272]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.10.29-18.07.38:909][272]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.29-18.07.38:909][272]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.29-18.07.38:909][272]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.29-18.07.38:909][272]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.29-18.07.38:909][272]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.29-18.07.39:005][272]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.29-18.07.39:005][272]MapCheck: New page: ShotScene - Oct 29, 2019, 6:07:39 AM
+[2019.10.29-18.07.39:005][272]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.10.29-18.07.39:006][272]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.29-18.07.39:006][272]MapCheck: Warning: Starter_Background_Cue2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.29-18.07.39:006][272]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 1.296ms to complete.
+[2019.10.29-18.07.39:029][272]LogEditorBuildUtils: Build time 0:09
+[2019.10.29-18.07.39:103][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.10.29-18.07.42:934][448]LightingResults: Warning: model_polySurface383 Object has overlapping UVs.
+[2019.10.29-18.07.42:934][448]LightingResults: model_polySurface383 Lightmap UV are overlapping by 50.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.29-18.07.43:073][457]Job is a success!
+[2019.10.29-18.07.43:181][459]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.045s
+[2019.10.29-18.07.43:181][459]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.10.29-18.07.43:181][459]LogVolumetricLightmapImport:      BrickData 425x5x5 = 0.4Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.10.29-18.07.43:181][459]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.29-18.07.43:181][459]LogVolumetricLightmapImport:          0: 9.4% covering 100.0% of volume
+[2019.10.29-18.07.43:181][459]LogVolumetricLightmapImport:          1: 14.1% covering 2.3% of volume
+[2019.10.29-18.07.43:181][459]LogVolumetricLightmapImport:          2: 76.5% covering 0.2% of volume
+[2019.10.29-18.07.43:255][459]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.29-18.07.43:455][459]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.29-18.07.43:455][459]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.29-18.07.43:455][459]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.10.29-18.07.43:455][459]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.10.29-18.07.43:455][459]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2019.10.29-18.07.43:455][459]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2019.10.29-18.07.43:455][459]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 128X64)
+[2019.10.29-18.07.43:455][459]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X64)
+[2019.10.29-18.07.43:481][459]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X512)
+[2019.10.29-18.07.43:513][459]Lightmass on eae-n-046: 3.92 sec total, 215 ms importing, 165 ms setup, 925 ms photons, 2.58 sec processing, 0 ms extra exporting [236/236 mappings]. Threads: 17.9 sec total, 8.31 sec processing.
+[2019.10.29-18.07.43:517][459]LogStaticLightingSystem: ShotScene_BuiltData storing lightmap data for 76 meshes in 4 LightmapResourceClusters (19.0 Meshes per cluster).
+[2019.10.29-18.07.43:545][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.10.29-18.07.43:565][459]LogStaticLightingSystem: Illumination: 8.76 sec (151 ms encoding lightmaps, 69 ms encoding shadowmaps)
+[2019.10.29-18.07.43:566][459]LogStaticLightingSystem: Lightmap texture memory:  2.2 MB (0.2 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.10.29-18.07.43:566][459]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.0 MB streaming, 1.3 MB non-streaming), 3 textures
+[2019.10.29-18.07.43:916][459]DumpUnbuiltLightIteractions
+[2019.10.29-18.07.43:916][459]Lights with unbuilt interactions: 0
+[2019.10.29-18.07.43:916][459]
+[2019.10.29-18.07.43:916][459]Primitives with unbuilt interactions: 0
+[2019.10.29-18.07.43:958][460]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.29-18.07.43:958][460]MapCheck: New page: ShotScene - Oct 29, 2019, 6:07:43 AM
+[2019.10.29-18.07.43:959][460]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.29-18.07.43:959][460]MapCheck: Warning: Starter_Background_Cue2 Ambient sound actor has NULL Sound Cue property 
+[2019.10.29-18.07.43:959][460]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 1.111ms to complete.
+[2019.10.29-18.07.53:775][300]LogSlate: Window 'Message Log' being destroyed
+[2019.10.29-18.07.53:780][300]LogSlate: Window 'Message Log' being destroyed
+[2019.10.29-18.08.01:245][113]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.29-18.08.09:688][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.08.11:554][207]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rosy - Seated)
+[2019.10.29-18.08.13:383][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.08.14:335][488]Cmd: DELETE
+[2019.10.29-18.08.14:335][488]Cmd: ACTOR DELETE
+[2019.10.29-18.08.18:276][488]LogSlate: Window 'Message' being destroyed
+[2019.10.29-18.08.18:302][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.29-18.08.18:303][488]LogEditorActor: Deleted 0 Actors (3.967 secs)
+[2019.10.29-18.08.26:409][301]Cmd: TRANSACTION UNDO
+[2019.10.29-18.08.26:409][301]LogEditorTransaction: Undo Delete Sections
+[2019.10.29-18.08.26:722][327]Cmd: TRANSACTION UNDO
+[2019.10.29-18.08.26:722][327]LogEditorTransaction: Undo Select Actors/Components
+[2019.10.29-18.08.27:121][355]Cmd: TRANSACTION UNDO
+[2019.10.29-18.08.27:121][355]LogEditorTransaction: Undo Select Actors/Components
+[2019.10.29-18.08.27:542][382]Cmd: TRANSACTION UNDO
+[2019.10.29-18.08.27:542][382]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-18.08.27:915][408]Cmd: TRANSACTION UNDO
+[2019.10.29-18.08.27:915][408]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.29-18.08.28:291][435]Cmd: TRANSACTION UNDO
+[2019.10.29-18.08.28:291][435]LogEditorTransaction: Undo Select None
+[2019.10.29-18.08.28:666][459]Cmd: TRANSACTION UNDO
+[2019.10.29-18.08.28:666][459]LogEditorTransaction: Undo Select Actors/Components
+[2019.10.29-18.08.29:052][485]Cmd: TRANSACTION UNDO
+[2019.10.29-18.08.29:052][485]LogEditorTransaction: Undo Delete Sections
+[2019.10.29-18.08.40:081][474]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Sequence/27.27
+[2019.10.29-18.08.42:049][656]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.29-18.08.46:847][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.09.40:838][991]Cmd: TRANSACTION UNDO
+[2019.10.29-18.09.40:838][991]LogEditorTransaction: Undo Delete Node
+[2019.10.29-18.10.05:786][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.29-18.10.05:824][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.29-18.10.06:099][697]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/ShotScene2A13EB8248BC6F01AF224A9498EB98B4.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap'
+[2019.10.29-18.10.06:142][697]LogFileHelpers: Saving map 'ShotScene' took 0.340
+[2019.10.29-18.10.06:145][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/ShotScene_BuiltData" FILE="../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Scene/ShotScene_BuiltData.uasset" SILENT=true
+[2019.10.29-18.10.06:237][697]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/ShotScene_BuiltData62342790406B82825FA7F8829E602054.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Scene/ShotScene_BuiltData.uasset'
+[2019.10.29-18.10.06:241][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/00" FILE="../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Sequence/00.uasset" SILENT=true
+[2019.10.29-18.10.06:288][697]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/00079BE9EC42F43228561DF286F2E71672.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Sequence/00.uasset'
+[2019.10.29-18.10.06:292][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/27" FILE="../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Sequence/27.uasset" SILENT=true
+[2019.10.29-18.10.06:336][697]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/2700D0DFA6455876EE0DDBADB64714D6D3.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Sequence/27.uasset'
+[2019.10.29-18.10.07:797][858]Cmd: DELETE
+[2019.10.29-18.10.07:797][858]Cmd: ACTOR DELETE
+[2019.10.29-18.10.07:803][858]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.29-18.10.07:825][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.29-18.10.07:825][858]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.10.29-18.14.58:305][784]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1243388\Downloads\Goldie_StumbleBackwards.fbx)
+[2019.10.29-18.14.58:316][784]LogFbx: Loading FBX Scene from C:\Users\u1243388\Downloads\Goldie_StumbleBackwards.fbx
+[2019.10.29-18.14.58:337][784]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.29-18.15.03:772][784]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(0) Hips
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(1) Spine
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(2) Spine1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(3) Spine2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(4) Neck
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(5) Head
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(8) LeftArm
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(10) LeftHand
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(31) RightShoulder
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(32) RightArm
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(33) RightForeArm
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(34) RightHand
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(56) LeftLeg
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(57) LeftFoot
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(61) RightLeg
+[2019.10.29-18.15.03:806][784]LogFbx: SortedLinks :(62) RightFoot
+[2019.10.29-18.15.03:807][784]LogFbx: SortedLinks :(63) RightToeBase
+[2019.10.29-18.15.03:807][784]LogFbx: SortedLinks :(64) RightToe_End
+[2019.10.29-18.15.03:807][784]LogFbx: Parsing AnimStack mixamo.com
+[2019.10.29-18.15.03:808][784]LogLinker: Can't find file '/Game/Assets/Animations/Goldie/Goldie_StumbleBackwards'
+[2019.10.29-18.15.03:808][784]LogLinker: Can't find file '/Game/Assets/Animations/Goldie/Goldie_StumbleBackwards'
+[2019.10.29-18.15.04:211][784]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Goldie/Goldie_StumbleBackwards.Goldie_StumbleBackwards
+[2019.10.29-18.15.04:211][784]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Goldie_StumbleBackwards) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-18.15.05:052][836]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Goldie/Goldie_StumbleBackwards.Goldie_StumbleBackwards
+[2019.10.29-18.15.05:058][836]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.15.05:094][836]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.15.05:402][836]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.15.10:598][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.15.10:669][199]LogSlate: Window 'Goldie_StumbleBackwards' being destroyed
+[2019.10.29-18.15.10:677][199]LogSlate: Window 'Goldie_StumbleBackwards' being destroyed
+[2019.10.29-18.15.20:467][986]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_FallFlat.Rosy_FallFlat
+[2019.10.29-18.15.20:474][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.15.20:509][986]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.15.20:842][986]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.16.05:484][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.16.05:563][ 93]LogSlate: Window 'Rosy_FallFlat' being destroyed
+[2019.10.29-18.16.05:571][ 93]LogSlate: Window 'Rosy_FallFlat' being destroyed
+[2019.10.29-18.16.10:121][405]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Goldie/Goldie_StumbleBackwards.Goldie_StumbleBackwards
+[2019.10.29-18.16.10:129][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.16.10:165][405]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.16.10:518][405]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.16.26:674][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.16.26:750][374]LogSlate: Window 'Goldie_StumbleBackwards' being destroyed
+[2019.10.29-18.16.26:759][374]LogSlate: Window 'Goldie_StumbleBackwards' being destroyed
+[2019.10.29-18.16.31:831][712]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Rosy/Rosy_FallFlat.Rosy_FallFlat
+[2019.10.29-18.16.31:839][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.16.31:874][712]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.16.32:186][712]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.16.41:542][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.16.50:021][821]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Goldie/Goldie_StumbleBackwards.Goldie_StumbleBackwards
+[2019.10.29-18.16.50:029][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.16.50:056][821]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.16.50:393][821]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.16.57:113][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.17.01:544][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.17.03:292][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.17.33:930][ 98]LogSlate: Window 'Goldie_StumbleBackwards' being destroyed
+[2019.10.29-18.17.33:938][ 98]LogSlate: Window 'Goldie_StumbleBackwards' being destroyed
+[2019.10.29-18.20.07:051][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.10.29-18.20.07:344][314]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/ShotScene_Auto115C67AF04AFA0B188EC8939E9A6F7549.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Scene/ShotScene_Auto1.umap'
+[2019.10.29-18.20.07:349][314]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scene/ShotScene' took 0.329
+[2019.10.29-18.20.07:349][314]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.329
+[2019.10.29-18.20.07:356][314]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Animations/Goldie/Goldie_StumbleBackwards] ([1] browsable assets)...
+[2019.10.29-18.20.07:380][314]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Animations/Goldie/Goldie_StumbleBackwards.Goldie_StumbleBackwards]
+[2019.10.29-18.20.07:380][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Animations/Goldie/Goldie_StumbleBackwards]
+[2019.10.29-18.20.07:396][314]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Goldie_StumbleBackwards_Auto157EA01354F0EBC5F8262899126F7F41E.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Assets/Animations/Goldie/Goldie_StumbleBackwards_Auto1.uasset'
+[2019.10.29-18.20.07:397][314]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.10.29-18.20.20:034][512]LogEditorViewport: Clicking Background
+[2019.10.29-18.21.33:332][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-18.23.42:026][480]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1243388\Downloads\Jesse_GetUppercut.fbx)
+[2019.10.29-18.23.42:037][480]LogFbx: Loading FBX Scene from C:\Users\u1243388\Downloads\Jesse_GetUppercut.fbx
+[2019.10.29-18.23.42:058][480]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.29-18.23.46:457][480]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(0) Hips
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(1) Spine
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(2) Spine1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(3) Spine2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(4) Neck
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(5) Head
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(8) LeftArm
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(10) LeftHand
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(31) RightShoulder
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(32) RightArm
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(33) RightForeArm
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(34) RightHand
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.10.29-18.23.46:490][480]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(56) LeftLeg
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(57) LeftFoot
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(61) RightLeg
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(62) RightFoot
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(63) RightToeBase
+[2019.10.29-18.23.46:491][480]LogFbx: SortedLinks :(64) RightToe_End
+[2019.10.29-18.23.46:491][480]LogFbx: Parsing AnimStack mixamo.com
+[2019.10.29-18.23.46:492][480]LogLinker: Can't find file '/Game/Assets/Animations/Jesse/Jesse_GetUppercut'
+[2019.10.29-18.23.46:492][480]LogLinker: Can't find file '/Game/Assets/Animations/Jesse/Jesse_GetUppercut'
+[2019.10.29-18.23.46:788][480]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Jesse/Jesse_GetUppercut.Jesse_GetUppercut
+[2019.10.29-18.23.46:788][480]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jesse_GetUppercut) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-18.23.47:661][526]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Assets/Animations/Jesse/Jesse_GetUppercut.Jesse_GetUppercut
+[2019.10.29-18.23.47:667][526]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-18.23.47:700][526]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-18.23.47:996][526]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-18.23.49:849][642]LogSlate: Window 'Jesse_GetUppercut' being destroyed
+[2019.10.29-18.23.49:856][642]LogSlate: Window 'Jesse_GetUppercut' being destroyed
+[2019.10.29-18.23.51:618][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.29-18.23.51:658][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.10.29-18.23.51:939][822]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/ShotScene011567D24CE56F2D966A2CACA5F3ADE8.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap'
+[2019.10.29-18.23.51:981][822]LogFileHelpers: Saving map 'ShotScene' took 0.345
+[2019.10.29-18.23.51:992][822]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Goldie_StumbleBackwards699241B945EC6732704A20BE0451ABE1.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Assets/Animations/Goldie/Goldie_StumbleBackwards.uasset'
+[2019.10.29-18.23.52:038][822]LogSavePackage: Moving '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Jesse_GetUppercutBC9000CF43536156C6BD9884C10EF1D9.tmp' to '../../../../../../Users/u1243388/Documents/GitHub/JessiesGirl/JessiesGirl/Content/Assets/Animations/Jesse/Jesse_GetUppercut.uasset'
+[2019.10.29-18.23.53:875][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.29-18.23.53:924][992]LogSlate: Window 'JessiesGirl - Unreal Editor' being destroyed
+[2019.10.29-18.23.53:925][992]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.29-18.23.54:014][993]Cmd: QUIT_EDITOR
+[2019.10.29-18.23.54:043][993]LogExit: Preparing to exit.
+[2019.10.29-18.23.54:144][993]LogExit: Editor shut down
+[2019.10.29-18.23.54:144][993]LogExit: Transaction tracking system shut down
+[2019.10.29-18.23.54:313][993]LogExit: Object subsystem successfully closed.
+[2019.10.29-18.23.54:330][993]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.29-18.23.54:335][993]LogD3D11RHI: Shutdown
+[2019.10.29-18.23.54:335][993]LogD3D11RHI: CleanupD3DDevice
+[2019.10.29-18.23.54:336][993]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.29-18.23.54:336][993]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.29-18.23.54:336][993]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.29-18.23.54:336][993]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.29-18.23.54:336][993]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.29-18.23.54:336][993]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.29-18.23.54:505][993]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (654)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module SequencerWidgets (652)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module StatsViewer (650)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (648)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module PinnedCommandList (646)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module SkeletonEditor (644)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module AnimationEditor (642)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2019.10.29-18.23.54:527][993]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.10.29-18.23.54:528][993]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.10.29-18.23.54:529][993]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.10.29-18.23.54:530][993]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.10.29-18.23.54:601][993]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.10.29-18.23.54:602][993]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.10.29-18.23.54:602][993]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.10.29-18.23.54:602][993]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.10.29-18.23.54:602][993]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.10.29-18.23.54:602][993]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.10.29-18.23.54:602][993]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.10.29-18.23.54:602][993]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.10.29-18.23.54:602][993]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.10.29-18.23.54:655][993]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.10.29-18.23.54:656][993]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.10.29-18.23.54:658][993]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.10.29-18.23.54:710][993]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.29-18.23.54:711][993]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.29-18.23.54:812][993]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.10.29-18.23.54:913][993]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.10.29-18.23.54:913][993]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.10.29-18.23.54:914][993]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.10.29-18.23.54:914][993]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.10.29-18.23.54:914][993]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.10.29-18.23.54:915][993]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.10.29-18.23.54:915][993]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.10.29-18.23.54:915][993]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.10.29-18.23.54:916][993]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.10.29-18.23.54:917][993]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.10.29-18.23.54:917][993]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.10.29-18.23.54:917][993]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.10.29-18.23.54:917][993]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.10.29-18.23.54:917][993]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.10.29-18.23.54:918][993]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.10.29-18.23.54:997][993]LogDerivedDataCache: Shutdown
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.10.29-18.23.54:997][993]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.10.29-18.23.54:999][993]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.10.29-18.23.54:999][993]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.10.29-18.23.54:999][993]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.10.29-18.23.54:999][993]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.10.29-18.23.54:999][993]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.10.29-18.23.55:000][993]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.10.29-18.23.55:000][993]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.10.29-18.23.55:000][993]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.10.29-18.23.55:000][993]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.10.29-18.23.55:004][993]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.10.29-18.23.55:005][993]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.10.29-18.23.55:005][993]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.10.29-18.23.55:005][993]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.10.29-18.23.55:005][993]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.10.29-18.23.55:005][993]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.29-18.23.55:005][993]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.10.29-18.23.55:005][993]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.10.29-18.23.55:005][993]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.10.29-18.23.55:005][993]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.10.29-18.23.55:005][993]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.10.29-18.23.55:006][993]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.10.29-18.23.55:006][993]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.10.29-18.23.55:014][993]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.10.29-18.23.55:014][993]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.29-18.23.55:014][993]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B974161C6-48E0-9977-3DF2-0BA947CB60C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=efca574d49a61fcc5e71b0935729f3bf%7C61de676e3ed24a5ba7ef7afafefae834%7C7c861e22-1608-470f-9043-95b0995fd26c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.29-18.23.55:022][993]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.10.29-18.23.55:023][993]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.10.29-18.23.55:024][993]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.10.29-18.23.55:031][993]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.10.29-18.23.55:031][993]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.10.29-18.23.55:032][993]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.29-18.23.55:032][993]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.29-18.23.55:032][993]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.29-18.23.55:033][993]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.29-18.23.55:034][993]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.29-18.23.55:034][993]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.29-18.23.55:034][993]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.29-18.23.55:040][993]LogExit: Exiting.
+[2019.10.29-18.23.55:041][993]Log file closed, 10/29/19 12:23:55

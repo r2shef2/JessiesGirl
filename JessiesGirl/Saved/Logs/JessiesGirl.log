@@ -1528,3 +1528,60 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.30-22.00.47:821][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.30-22.00.48:015][879]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
 [2019.10.30-22.00.48:016][879]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.01.27:737][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-22.01.31:216][923]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Sil2)
+[2019.10.30-22.01.33:432][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-22.02.16:513][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.30-22.02.16:569][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.30-22.02.16:896][967]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/ShotScene_Auto2FD68EED34C166EE67329D793B0C0BFF2.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Scene/ShotScene_Auto2.umap'
+[2019.10.30-22.02.16:903][967]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scene/ShotScene' took 0.361
+[2019.10.30-22.02.16:903][967]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.361
+[2019.10.30-22.02.16:905][967]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Ceramic_Tile_Checker] ([1] browsable assets)...
+[2019.10.30-22.02.16:919][967]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker]
+[2019.10.30-22.02.16:920][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Ceramic_Tile_Checker]
+[2019.10.30-22.02.16:982][967]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/M_Ceramic_Tile_Checker_Auto2E91442B74874A309BEBE499DBF3BC284.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/StarterContent/Materials/M_Ceramic_Tile_Checker_Auto2.uasset'
+[2019.10.30-22.02.16:984][967]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Black] ([1] browsable assets)...
+[2019.10.30-22.02.16:999][967]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Black.M_Black]
+[2019.10.30-22.02.16:999][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Black]
+[2019.10.30-22.02.17:015][967]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/M_Black_Auto29327D6574B42838D2FDEEB8931B45885.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/StarterContent/Materials/M_Black_Auto2.uasset'
+[2019.10.30-22.02.17:016][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequence/SequenceMaster] ([1] browsable assets)...
+[2019.10.30-22.02.17:016][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequence/SequenceMaster]
+[2019.10.30-22.02.17:082][967]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/SequenceMaster_Auto24F460BE6487D84C7A606148B93CB91AA.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/SequenceMaster_Auto2.uasset'
+[2019.10.30-22.02.17:084][967]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Sil1/SilM1] ([1] browsable assets)...
+[2019.10.30-22.02.17:100][967]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Assets/Characters/Sil1/SilM1.SilM1]
+[2019.10.30-22.02.17:100][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Sil1/SilM1]
+[2019.10.30-22.02.17:202][967]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/SilM1_Auto2333DC9C948B13BD0C5D560883D4403D6.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Assets/Characters/Sil1/SilM1_Auto2.uasset'
+[2019.10.30-22.02.17:203][967]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Steel] ([1] browsable assets)...
+[2019.10.30-22.02.17:217][967]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel]
+[2019.10.30-22.02.17:217][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Steel]
+[2019.10.30-22.02.17:280][967]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/M_Metal_Steel_Auto2756440584B86DBB00B798C8605DF13C6.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Steel_Auto2.uasset'
+[2019.10.30-22.02.17:282][967]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/Materials/M_Frame] ([1] browsable assets)...
+[2019.10.30-22.02.17:297][967]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Props/Materials/M_Frame.M_Frame]
+[2019.10.30-22.02.17:297][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Materials/M_Frame]
+[2019.10.30-22.02.17:355][967]LogSavePackage: Moving '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/M_Frame_Auto2753F3ACB450F89DEBB70A4A8ECE003FD.tmp' to '../../../../../../Users/u1001862/Documents/GitHub/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/StarterContent/Props/Materials/M_Frame_Auto2.uasset'
+[2019.10.30-22.02.17:357][967]LogFileHelpers: Auto-saving content packages took 0.453
+[2019.10.30-22.02.52:055][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-22.02.53:727][ 63]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.02.53:749][ 65]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.03.54:898][ 71]Cmd: TRANSACTION UNDO
+[2019.10.30-22.03.54:899][ 71]LogEditorTransaction: Undo Set Key Value
+[2019.10.30-22.04.40:567][723]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Sequence/SequenceMaster.SequenceMaster
+[2019.10.30-22.04.40:843][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.04.40:843][739]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.05.03:786][402]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.05.03:854][409]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.05.04:801][514]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.05.04:841][518]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.05.27:639][113]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.05.27:674][117]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.10.30-22.05.39:285][450]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Sil2)
+[2019.10.30-22.05.41:758][735]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Sil3)
+[2019.10.30-22.05.45:351][156]Cmd: TRANSACTION UNDO
+[2019.10.30-22.05.45:351][156]LogEditorTransaction: Undo Delete Node
+[2019.10.30-22.05.47:269][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.30-22.05.47:987][436]Cmd: DELETE
+[2019.10.30-22.05.47:987][436]Cmd: ACTOR DELETE
+[2019.10.30-22.05.48:990][436]LogSlate: Window 'Message' being destroyed
+[2019.10.30-22.05.48:996][436]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.30-22.05.49:021][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.10.30-22.05.49:022][436]LogEditorActor: Deleted 1 Actors (1.035 secs)

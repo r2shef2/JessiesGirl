@@ -1,0 +1,1062 @@
+﻿Log file open, 11/05/19 19:28:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JessiesGirl
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.676245
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal Engine 4.2/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.06-02.28.09:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.06-02.28.09:991][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.06-02.28.09:991][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.06-02.28.10:056][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:056][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.06-02.28.10:057][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.06-02.28.10:058][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.06-02.28.10:074][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.06-02.28.10:074][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.06-02.28.10:121][  0]LogHAL: Display: Platform has ~ 16 GB [17033236480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.06-02.28.10:125][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.06-02.28.10:125][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.06-02.28.10:126][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.06-02.28.10:126][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.06-02.28.10:127][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.06-02.28.10:137][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.06-02.28.10:137][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.06-02.28.10:137][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.06-02.28.10:138][  0]LogInit: Computer: LAPTOP-13PSO9BT
+[2019.11.06-02.28.10:138][  0]LogInit: User: malbe
+[2019.11.06-02.28.10:138][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.06-02.28.10:138][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.06-02.28.10:139][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.06-02.28.10:139][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.06-02.28.10:139][  0]LogMemory: Process Physical Memory: 100.71 MB used, 100.71 MB peak
+[2019.11.06-02.28.10:139][  0]LogMemory: Process Virtual Memory: 92.90 MB used, 92.90 MB peak
+[2019.11.06-02.28.10:139][  0]LogMemory: Physical Memory: 7096.19 MB used,  9147.97 MB free, 16244.16 MB total
+[2019.11.06-02.28.10:139][  0]LogMemory: Virtual Memory: 4646.39 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.11.06-02.28.10:848][  0]LogInit: Using OS detected language (en-US).
+[2019.11.06-02.28.10:848][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.06-02.28.10:952][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.06-02.28.11:754][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.06-02.28.12:421][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.06-02.28.12:421][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.06-02.28.15:336][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.06-02.28.15:336][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.06-02.28.15:435][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.11.06-02.28.15:435][  0]LogD3D11RHI:       6052/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.06-02.28.15:479][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.06-02.28.15:479][  0]LogD3D11RHI:       128/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.11.06-02.28.15:485][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.06-02.28.15:485][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.06-02.28.15:485][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.06-02.28.15:513][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.06-02.28.15:514][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.06-02.28.15:514][  0]LogWindows: EnumDisplayDevices:
+[2019.11.06-02.28.15:518][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.11.06-02.28.15:519][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.06-02.28.15:519][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.06-02.28.15:520][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.11.06-02.28.15:520][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.11.06-02.28.15:521][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.11.06-02.28.15:521][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.11.06-02.28.15:522][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.06-02.28.15:522][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.11.06-02.28.15:522][  0]LogD3D11RHI:   Driver Version: 436.48 (internal:26.21.14.3648, unified:436.48)
+[2019.11.06-02.28.15:522][  0]LogD3D11RHI:      Driver Date: 9-26-2019
+[2019.11.06-02.28.15:522][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.06-02.28.15:653][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.06-02.28.15:888][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.06-02.28.15:901][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.06-02.28.15:902][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.06-02.28.15:940][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.06-02.28.16:797][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.06-02.28.16:813][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.06-02.28.16:834][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.06-02.28.16:851][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.06-02.28.16:909][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.06-02.28.16:937][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.06-02.28.16:957][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.06-02.28.16:979][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.06-02.28.16:988][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.06-02.28.17:114][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.06-02.28.17:115][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.06-02.28.17:115][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.06-02.28.17:115][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.06-02.28.17:119][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.06-02.28.17:212][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.06-02.28.17:212][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.06-02.28.17:238][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.06-02.28.17:238][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.06-02.28.17:254][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.06-02.28.17:268][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.06-02.28.17:289][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.06-02.28.17:315][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.06-02.28.17:366][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.06-02.28.17:366][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.06-02.28.17:366][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.06-02.28.17:550][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.06-02.28.18:071][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Intermediate/Shaders/WorkingDirectory/19636/).
+[2019.11.06-02.28.18:071][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/malbe/AppData/Local/Temp/UnrealShaderWorkingDir/1F70529348FB54620CB5C696883D9D54/'.
+[2019.11.06-02.28.18:177][  0]LogXGEController: Cleaning working directory: C:/Users/malbe/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.06-02.28.18:178][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.06-02.28.18:178][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.06-02.28.18:178][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.06-02.28.20:119][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.06-02.28.20:203][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/malbe/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.06-02.28.20:203][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/malbe/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.06-02.28.20:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.06-02.28.20:203][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.06-02.28.20:203][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.06-02.28.20:203][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.06-02.28.20:279][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.06-02.28.20:279][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.06-02.28.20:279][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.06-02.28.20:294][  0]LogDerivedDataCache: Using Local data cache path C:/Users/malbe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.06-02.28.20:294][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.06-02.28.20:294][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.06-02.28.20:340][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.06-02.28.20:396][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.06-02.28.20:582][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.06-02.28.21:740][  0]LogAssetRegistry: FAssetRegistry took 0.0380 seconds to start up
+[2019.11.06-02.28.26:351][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.06-02.28.28:966][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.06-02.28.28:966][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.06-02.28.28:966][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.06-02.28.28:966][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.06-02.28.28:966][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.06-02.28.29:492][  0]LogNetVersion: JessiesGirl 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2280906462)
+[2019.11.06-02.28.39:272][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.153800 seconds
+[2019.11.06-02.28.39:325][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.06-02.28.39:325][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.06-02.28.39:325][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.06-02.29.19:476][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.06-02.29.19:510][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.06-02.29.20:383][  0]SourceControl: Source control is disabled
+[2019.11.06-02.29.20:400][  0]SourceControl: Source control is disabled
+[2019.11.06-02.29.20:771][  0]SourceControl: Source control is disabled
+[2019.11.06-02.29.20:807][  0]SourceControl: Source control is disabled
+[2019.11.06-02.29.22:406][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.06-02.29.23:040][  0]LogOcInput: OculusInput pre-init called
+[2019.11.06-02.29.27:571][  0]LogEngine: Initializing Engine...
+[2019.11.06-02.29.27:744][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.06-02.29.27:773][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2019.11.06-02.29.28:228][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.06-02.29.29:762][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.06-02.29.30:259][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.06-02.29.30:296][  0]LogInit: FAudioDevice initialized.
+[2019.11.06-02.29.30:302][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.06-02.29.30:357][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/malbe/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.06-02.29.30:358][  0]LogInit: Texture streaming: Enabled
+[2019.11.06-02.29.30:770][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.06-02.29.32:302][  0]LogInit: Transaction tracking system initialized
+[2019.11.06-02.29.33:517][  0]BlueprintLog: New page: Editor Load
+[2019.11.06-02.29.36:759][  0]LocalizationService: Localization service is disabled
+[2019.11.06-02.29.41:787][  0]LogFileCache: Scanning file cache for directory 'E:/Files/EAE3660/JessiesGirl/JessiesGirl/Content/' took 0.02s
+[2019.11.06-02.29.41:787][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.06-02.29.41:788][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.06-02.29.47:620][  0]SourceControl: Source control is disabled
+[2019.11.06-02.29.48:217][  0]Cmd: MAP LOAD FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.06-02.29.48:235][  0]LogEditorServer: Warning: Can't find file '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.11.06-02.29.48:484][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.06-02.29.48:977][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 485.284ms to complete.
+[2019.11.06-02.29.48:990][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.996
+[2019.11.06-02.29.59:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.06-02.30.00:215][  0]LogCollectionManager: Loaded 0 collections in 0.000986 seconds
+[2019.11.06-02.30.00:925][  0]LogFileCache: Scanning file cache for directory 'E:/Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Collections/' took 0.01s
+[2019.11.06-02.30.00:925][  0]LogFileCache: Scanning file cache for directory 'E:/Files/EAE3660/JessiesGirl/JessiesGirl/Content/Developers/malbe/Collections/' took 0.01s
+[2019.11.06-02.30.00:925][  0]LogFileCache: Scanning file cache for directory 'E:/Files/EAE3660/JessiesGirl/JessiesGirl/Content/Collections/' took 0.01s
+[2019.11.06-02.30.00:925][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.06-02.30.00:943][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2732 classes and 659 folders.
+[2019.11.06-02.30.01:309][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.06-02.30.01:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.01:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.01:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:319][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:533][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:535][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:537][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:540][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.02:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.06-02.30.04:817][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.06-02.30.05:054][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.06-02.30.09:229][  0]LogSlate: Took 0.026119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.06-02.30.09:391][  0]LogSlate: Took 0.055786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.06-02.30.11:217][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2019.11.06-02.30.13:045][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.06-02.30.13:045][  0]LogLoad: (Engine Initialization) Total time: 145.70 seconds
+[2019.11.06-02.30.13:045][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.06-02.30.14:768][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.06-02.30.15:935][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.30.16:205][  1]LogSlate: Took 0.021444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.06-02.30.16:521][  1]LogSlate: Took 0.039898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.06-02.30.17:103][  4]LogAssetRegistry: Asset discovery search completed in 115.3862 seconds
+[2019.11.06-02.30.17:116][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.06-02.30.17:116][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2019.11.06-02.30.25:313][230]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.06-02.30.39:001][230]LogMaterial: Display: Missing cached shader map for material M_DemoWall, compiling. 
+[2019.11.06-02.30.40:473][230]LogStaticMesh: Building static mesh model_polySurface383...
+[2019.11.06-02.30.42:946][230]LogStaticMesh: Built static mesh [2.50s] /Game/Assets/Harley/model_polySurface383.model_polySurface383
+[2019.11.06-02.30.43:777][230]LogMaterial: Display: Missing cached shader map for material hair_material, compiling. 
+[2019.11.06-02.30.44:286][230]LogAIModule: Creating AISystem for world ShotScene
+[2019.11.06-02.30.45:483][230]LogAssetEditorManager: Opening Asset editor for World /Game/Scene/ShotScene.ShotScene
+[2019.11.06-02.30.46:158][230]LogUObjectHash: Compacting FUObjectHashTables data took  10.52ms
+[2019.11.06-02.30.46:437][230]Cmd: MAP LOAD FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.06-02.30.46:467][230]LightingResults: New page: Lighting Build
+[2019.11.06-02.30.46:854][230]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2019.11.06-02.30.46:855][230]LoadErrors: New page: Loading map: ShotScene.umap
+[2019.11.06-02.30.47:429][230]MapCheck: New page: Map Check
+[2019.11.06-02.30.47:429][230]LightingResults: New page: Lighting Build
+[2019.11.06-02.30.48:162][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.06-02.30.48:762][230]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.30.48:762][230]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ3_10.StaticMeshComponent0' 
+[2019.11.06-02.30.48:763][230]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ4.StaticMeshComponent0' 
+[2019.11.06-02.30.48:763][230]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ5.StaticMeshComponent0' 
+[2019.11.06-02.30.48:763][230]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ6.StaticMeshComponent0' 
+[2019.11.06-02.30.48:763][230]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ7.StaticMeshComponent0' 
+[2019.11.06-02.30.48:763][230]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ8.StaticMeshComponent0' 
+[2019.11.06-02.30.49:949][230]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.06-02.30.50:585][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.11.06-02.30.50:656][230]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.06-02.30.50:658][230]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.953ms to complete.
+[2019.11.06-02.30.50:658][230]LogFileHelpers: Loading map 'ShotScene' took 4.411
+[2019.11.06-02.31.10:528][673]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rosy/Rosy_Rejected.Rosy_Rejected
+[2019.11.06-02.31.10:780][673]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rosy/Rosy_Rejected.Rosy_Rejected) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.06-02.31.10:824][673]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rick/Rick_Drinking.Rick_Drinking
+[2019.11.06-02.31.10:824][673]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rick/Rick_Drinking.Rick_Drinking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.06-02.31.10:885][673]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rick/Rick_BeingCocky.Rick_BeingCocky
+[2019.11.06-02.31.10:885][673]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rick/Rick_BeingCocky.Rick_BeingCocky) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.06-02.31.11:031][673]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Sequence/SequenceMaster.SequenceMaster
+[2019.11.06-02.31.14:310][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.31.14:416][715]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.31.14:536][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.31.14:537][725]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.32.28:195][857]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rick/Rick_ListeningToMusic.Rick_ListeningToMusic
+[2019.11.06-02.32.28:195][857]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rick/Rick_ListeningToMusic.Rick_ListeningToMusic) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.06-02.32.54:228][ 31]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.32.54:229][ 31]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.32.54:330][ 37]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.32.54:333][ 37]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.34.10:809][140]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Jessie)
+[2019.11.06-02.34.13:648][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.34.28:131][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.34.43:298][957]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.43:298][957]LogEditorTransaction: Undo Delete Keys
+[2019.11.06-02.34.44:120][974]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.44:120][974]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.06-02.34.45:307][  7]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.45:307][  7]LogEditorTransaction: Undo Rotate Actors
+[2019.11.06-02.34.46:631][ 46]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.46:631][ 46]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.06-02.34.48:465][100]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.48:465][100]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.06-02.34.49:004][116]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.49:004][116]LogEditorTransaction: Undo Delete Keys
+[2019.11.06-02.34.49:683][136]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.49:683][136]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.06-02.34.50:294][154]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.50:294][154]LogEditorTransaction: Undo Resize section
+[2019.11.06-02.34.51:077][177]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.51:077][177]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.06-02.34.51:655][194]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.51:655][194]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.06-02.34.53:215][240]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.53:215][240]LogEditorTransaction: Undo Select None
+[2019.11.06-02.34.54:094][266]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.54:094][266]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.06-02.34.54:939][291]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.54:939][291]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.06-02.34.55:826][317]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.55:826][317]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.06-02.34.57:083][354]Cmd: TRANSACTION UNDO
+[2019.11.06-02.34.57:083][354]LogEditorTransaction: Undo Select None
+[2019.11.06-02.35.43:082][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.36.00:344][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.36.14:054][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.36.29:553][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.38.59:440][374]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.38.59:441][374]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.38.59:548][380]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.38.59:549][380]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.39.06:091][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.39.07:149][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.39.31:217][964]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rick/Rick_Laughing.Rick_Laughing
+[2019.11.06-02.39.31:217][964]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rick/Rick_Laughing.Rick_Laughing) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.06-02.40.38:886][417]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Jesse/Jesse_Laughing.Jesse_Laughing
+[2019.11.06-02.40.38:886][417]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Jesse/Jesse_Laughing.Jesse_Laughing) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.06-02.41.18:764][ 36]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.41.18:764][ 36]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.41.18:868][ 42]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.41.18:870][ 42]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.41.55:319][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.06-02.41.55:405][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/ShotScene" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Scene/ShotScene_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.06-02.41.57:019][815]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/ShotScene_Auto1D44B499442A89F27EAD833A6FD50EA98.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Scene/ShotScene_Auto1.umap'
+[2019.11.06-02.41.57:029][815]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scene/ShotScene' took 1.858
+[2019.11.06-02.41.57:029][815]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.858
+[2019.11.06-02.41.57:034][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequence/02] ([1] browsable assets)...
+[2019.11.06-02.41.57:034][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequence/02]
+[2019.11.06-02.41.57:034][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/02" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/02_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.06-02.41.57:132][815]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/02_Auto16DEC56BC45E9044C8C9D15B93FDA009A.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/02_Auto1.uasset'
+[2019.11.06-02.41.57:134][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequence/03] ([1] browsable assets)...
+[2019.11.06-02.41.57:134][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequence/03]
+[2019.11.06-02.41.57:134][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/03" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/03_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.06-02.41.57:172][815]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/03_Auto12E513D494B596CA49D523D9359D4A725.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/03_Auto1.uasset'
+[2019.11.06-02.41.57:173][815]LogFileHelpers: Auto-saving content packages took 0.141
+[2019.11.06-02.45.18:229][ 23]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Downloads/Jesse_WalkingWhileTexting.fbx)
+[2019.11.06-02.45.18:487][ 23]LogFbx: Loading FBX Scene from ../../../../../Downloads/Jesse_WalkingWhileTexting.fbx
+[2019.11.06-02.45.18:522][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.06-02.45.23:991][ 23]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(0) Hips
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(1) Spine
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(2) Spine1
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(3) Spine2
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(4) Neck
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(5) Head
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(8) LeftArm
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(10) LeftHand
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(31) RightShoulder
+[2019.11.06-02.45.24:069][ 23]LogFbx: SortedLinks :(32) RightArm
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(33) RightForeArm
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(34) RightHand
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(56) LeftLeg
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(57) LeftFoot
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(61) RightLeg
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(62) RightFoot
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(63) RightToeBase
+[2019.11.06-02.45.24:070][ 23]LogFbx: SortedLinks :(64) RightToe_End
+[2019.11.06-02.45.24:085][ 23]LogFbx: Parsing AnimStack mixamo.com
+[2019.11.06-02.45.24:087][ 23]LogLinker: Can't find file '/Game/Assets/Animations/Jesse/Jesse_WalkingWhileTexting'
+[2019.11.06-02.45.24:087][ 23]LogLinker: Can't find file '/Game/Assets/Animations/Jesse/Jesse_WalkingWhileTexting'
+[2019.11.06-02.45.25:359][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Jesse/Jesse_WalkingWhileTexting.Jesse_WalkingWhileTexting
+[2019.11.06-02.45.25:360][ 23]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jesse_WalkingWhileTexting) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.06-02.45.25:407][ 23]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../Downloads/Jesse_LooksAtPhone.fbx)
+[2019.11.06-02.45.25:439][ 23]LogFbx: Loading FBX Scene from ../../../../../Downloads/Jesse_LooksAtPhone.fbx
+[2019.11.06-02.45.25:540][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(0) Hips
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(1) Spine
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(2) Spine1
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(3) Spine2
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(4) Neck
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(5) Head
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(8) LeftArm
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(10) LeftHand
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(23) LeftHandRing1
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(24) LeftHandRing2
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(25) LeftHandRing3
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(26) LeftHandRing4
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2019.11.06-02.45.25:582][ 23]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(31) RightShoulder
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(32) RightArm
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(33) RightForeArm
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(34) RightHand
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(35) RightHandThumb1
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(36) RightHandThumb2
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(37) RightHandThumb3
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(38) RightHandThumb4
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(39) RightHandIndex1
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(40) RightHandIndex2
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(41) RightHandIndex3
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(42) RightHandIndex4
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(47) RightHandRing1
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(48) RightHandRing2
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(49) RightHandRing3
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(50) RightHandRing4
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(51) RightHandPinky1
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(52) RightHandPinky2
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(53) RightHandPinky3
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(54) RightHandPinky4
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(55) LeftUpLeg
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(56) LeftLeg
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(57) LeftFoot
+[2019.11.06-02.45.25:583][ 23]LogFbx: SortedLinks :(58) LeftToeBase
+[2019.11.06-02.45.25:584][ 23]LogFbx: SortedLinks :(59) LeftToe_End
+[2019.11.06-02.45.25:584][ 23]LogFbx: SortedLinks :(60) RightUpLeg
+[2019.11.06-02.45.25:584][ 23]LogFbx: SortedLinks :(61) RightLeg
+[2019.11.06-02.45.25:584][ 23]LogFbx: SortedLinks :(62) RightFoot
+[2019.11.06-02.45.25:584][ 23]LogFbx: SortedLinks :(63) RightToeBase
+[2019.11.06-02.45.25:584][ 23]LogFbx: SortedLinks :(64) RightToe_End
+[2019.11.06-02.45.25:584][ 23]LogFbx: Parsing AnimStack mixamo.com
+[2019.11.06-02.45.25:584][ 23]LogLinker: Can't find file '/Game/Assets/Animations/Jesse/Jesse_LooksAtPhone'
+[2019.11.06-02.45.25:584][ 23]LogLinker: Can't find file '/Game/Assets/Animations/Jesse/Jesse_LooksAtPhone'
+[2019.11.06-02.45.30:632][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Jesse/Jesse_LooksAtPhone.Jesse_LooksAtPhone
+[2019.11.06-02.45.30:635][ 23]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Jesse_LooksAtPhone) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.06-02.48.27:349][438]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.48.27:353][438]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.48.27:449][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.48.27:451][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.08:262][526]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.08:264][526]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.08:329][530]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.08:331][530]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.31:416][264]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.37:162][484]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.39:550][625]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.41:595][746]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:731][813]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:734][813]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:781][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:783][816]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:829][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:831][819]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:880][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:881][822]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:933][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.42:935][825]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.47:848][116]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.57:208][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.49.57:528][689]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.50.14:534][609]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.50.14:772][623]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.50.46:785][164]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.50.48:346][256]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.50.52:758][513]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rick)
+[2019.11.06-02.50.58:784][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.51.02:868][974]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-02.51.02:868][974]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-02.51.02:881][975]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-02.51.02:881][975]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-02.51.08:831][288]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.51.08:834][288]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.51.09:187][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.51.09:189][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.51.09:237][312]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.51.09:239][312]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.51.09:289][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.51.09:290][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.51.18:640][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.51.24:989][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.51.30:799][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.51.45:020][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.51.46:609][296]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.51.48:444][392]LogSlate: Took 0.022365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.06-02.51.49:389][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.52.14:090][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.52.31:415][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.52.48:602][320]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.52.48:990][343]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.52.53:588][615]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.52.55:969][734]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.52.56:622][769]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.53.01:062][991]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.53.02:023][ 45]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.53.02:923][ 91]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.53.04:025][152]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.53.04:490][176]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.53.17:105][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.53.23:237][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.54.08:916][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.54.27:943][397]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.06-02.54.27:944][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.54.31:576][539]LogSlate: Took 0.004665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.06-02.54.38:536][775]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.54.38:658][781]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.55.23:873][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.55.29:920][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.55.29:923][156]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.55.34:400][422]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.55.34:402][422]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.56.23:240][233]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ3_10
+[2019.11.06-02.56.23:241][233]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ3_10
+[2019.11.06-02.56.23:275][234]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ3_10
+[2019.11.06-02.56.23:275][234]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ3_10
+[2019.11.06-02.56.27:614][386]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.56.27:616][386]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.57.59:008][472]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/Rosy/Rosy_Drinking.Rosy_Drinking
+[2019.11.06-02.57.59:008][472]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/Rosy/Rosy_Drinking.Rosy_Drinking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.06-02.58.06:086][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.06:089][826]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.08:252][954]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-02.58.08:252][954]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-02.58.08:268][955]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-02.58.08:268][955]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-02.58.08:318][958]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ3_10
+[2019.11.06-02.58.08:318][958]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ3_10
+[2019.11.06-02.58.08:335][959]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ3_10
+[2019.11.06-02.58.08:335][959]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ3_10
+[2019.11.06-02.58.10:569][ 91]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.10:571][ 91]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.16:628][449]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Bar_Jessie_sGirl_RJS2)
+[2019.11.06-02.58.16:943][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.06-02.58.19:208][503]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.19:210][503]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.19:259][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.19:263][506]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.19:617][527]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.19:620][527]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.19:668][530]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.19:671][530]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.22:762][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.58.25:910][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.25:912][776]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.39:629][501]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.39:666][504]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.54:077][357]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.58.55:306][430]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.03:797][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.03:800][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.13:900][234]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.13:904][234]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.13:949][237]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.13:952][237]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.13:999][240]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:001][240]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:074][243]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:076][243]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:127][247]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:130][247]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:227][253]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:230][253]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:279][256]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:280][256]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:282][256]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:283][256]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:329][259]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:331][259]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:379][262]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:382][262]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:430][265]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:433][265]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:481][268]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:485][268]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:529][271]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:532][271]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:580][274]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:584][274]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:633][277]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:638][277]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:681][280]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:685][280]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:732][283]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:735][283]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:782][286]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:786][286]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:834][289]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:837][289]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:883][292]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:887][292]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:933][295]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:935][295]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:984][298]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.14:987][298]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.15:035][301]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.15:037][301]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.15:419][324]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.33:232][904]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.37:778][  2]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.43:544][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.11.06-02.59.43:547][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/ShotScene" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Scene/ShotScene_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.06-02.59.44:017][143]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/ShotScene_Auto2CB6F2A5E4F0DAAB6D442E1B3591875BF.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Scene/ShotScene_Auto2.umap'
+[2019.11.06-02.59.44:023][143]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scene/ShotScene' took 0.611
+[2019.11.06-02.59.44:023][143]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.611
+[2019.11.06-02.59.44:025][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequence/01] ([1] browsable assets)...
+[2019.11.06-02.59.44:025][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequence/01]
+[2019.11.06-02.59.44:025][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/01" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/01_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.11.06-02.59.44:068][143]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/01_Auto223815E654644FA1971C503AD6D398DF0.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/01_Auto2.uasset'
+[2019.11.06-02.59.44:069][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequence/03] ([1] browsable assets)...
+[2019.11.06-02.59.44:069][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequence/03]
+[2019.11.06-02.59.44:069][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/03" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/03_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.11.06-02.59.44:107][143]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/03_Auto2E3A5297149B5B14379B2389C3C250521.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/03_Auto2.uasset'
+[2019.11.06-02.59.44:109][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sequence/05] ([1] browsable assets)...
+[2019.11.06-02.59.44:109][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sequence/05]
+[2019.11.06-02.59.44:109][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/05" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/05_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.11.06-02.59.44:168][143]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/05_Auto2CDF979414D079C2E480C7AAD6003B8F8.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Sequence/05_Auto2.uasset'
+[2019.11.06-02.59.44:169][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Animations/Jesse/Jesse_WalkingWhileTexting] ([1] browsable assets)...
+[2019.11.06-02.59.44:204][143]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Animations/Jesse/Jesse_WalkingWhileTexting.Jesse_WalkingWhileTexting]
+[2019.11.06-02.59.44:204][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Animations/Jesse/Jesse_WalkingWhileTexting]
+[2019.11.06-02.59.44:322][143]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Jesse_WalkingWhileTexting_Auto235F2D9E9458ED39ECAC67599EA9C2C8A.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Assets/Animations/Jesse/Jesse_WalkingWhileTexting_Auto2.uasset'
+[2019.11.06-02.59.44:323][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Animations/Jesse/Jesse_LooksAtPhone] ([1] browsable assets)...
+[2019.11.06-02.59.44:339][143]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Animations/Jesse/Jesse_LooksAtPhone.Jesse_LooksAtPhone]
+[2019.11.06-02.59.44:339][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Animations/Jesse/Jesse_LooksAtPhone]
+[2019.11.06-02.59.44:376][143]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Jesse_LooksAtPhone_Auto2779B279749DA03C5D23F1297F37C5433.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Autosaves/Game/Assets/Animations/Jesse/Jesse_LooksAtPhone_Auto2.uasset'
+[2019.11.06-02.59.44:377][143]LogFileHelpers: Auto-saving content packages took 0.353
+[2019.11.06-02.59.46:719][283]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.51:184][547]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.56:044][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-02.59.56:415][852]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-02.59.56:615][864]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.12:690][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-03.00.16:270][209]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.20:751][341]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.23:586][453]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.23:710][460]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.42:772][ 55]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.43:928][122]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.49:048][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.51:185][372]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-03.00.51:185][372]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-03.00.51:219][373]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-03.00.51:219][373]PIE: Warning: Applying invalid scale V(0) to body HEARTOBJ_5
+[2019.11.06-03.00.53:490][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.55:774][537]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.00.55:816][539]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.06-03.01.00:481][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.11.06-03.01.00:565][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/ShotScene" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.06-03.01.00:600][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.11.06-03.01.00:995][705]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/ShotScene3A2F469D4A24E46CD0BCB79E64CC8929.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap'
+[2019.11.06-03.01.01:031][705]LogFileHelpers: Saving map 'ShotScene' took 0.467
+[2019.11.06-03.01.01:034][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/01" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Sequence/01.uasset" SILENT=true
+[2019.11.06-03.01.01:068][705]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/0108ADBC144B82580CEB77CDAC1A6A29E6.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Sequence/01.uasset'
+[2019.11.06-03.01.01:075][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/02" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Sequence/02.uasset" SILENT=true
+[2019.11.06-03.01.01:112][705]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/024D8552C745D204B7C76C32A939DBC5F8.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Sequence/02.uasset'
+[2019.11.06-03.01.01:119][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/03" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Sequence/03.uasset" SILENT=true
+[2019.11.06-03.01.01:152][705]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/038AE5E1A84D3087B73A579EB8B06AB1E3.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Sequence/03.uasset'
+[2019.11.06-03.01.01:160][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/05" FILE="../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Sequence/05.uasset" SILENT=true
+[2019.11.06-03.01.01:209][705]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/05EF39AFBA4AC3498E008DADB23F2FA93A.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Sequence/05.uasset'
+[2019.11.06-03.01.01:225][705]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Jesse_WalkingWhileTexting117712A1426B32F017EB9683675441C5.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Assets/Animations/Jesse/Jesse_WalkingWhileTexting.uasset'
+[2019.11.06-03.01.01:281][705]LogSavePackage: Moving '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Saved/Jesse_LooksAtPhoneB227262C43A2CD6C4C341CA95BA7C91B.tmp' to '../../../../../Files/EAE3660/JessiesGirl/JessiesGirl/Content/Assets/Animations/Jesse/Jesse_LooksAtPhone.uasset'
+[2019.11.06-03.01.02:799][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.06-03.01.03:136][770]LogSlate: Window 'JessiesGirl - Unreal Editor' being destroyed
+[2019.11.06-03.01.03:143][770]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.06-03.01.03:405][771]Cmd: QUIT_EDITOR
+[2019.11.06-03.01.03:820][771]LogExit: Preparing to exit.
+[2019.11.06-03.01.05:216][771]LogExit: Editor shut down
+[2019.11.06-03.01.05:217][771]LogExit: Transaction tracking system shut down
+[2019.11.06-03.01.06:948][771]LogExit: Object subsystem successfully closed.
+[2019.11.06-03.01.07:208][771]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.06-03.01.07:259][771]LogD3D11RHI: Shutdown
+[2019.11.06-03.01.07:259][771]LogD3D11RHI: CleanupD3DDevice
+[2019.11.06-03.01.07:279][771]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.06-03.01.07:279][771]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.06-03.01.07:310][771]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.06-03.01.07:310][771]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.06-03.01.07:310][771]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.06-03.01.07:310][771]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.06-03.01.07:459][771]LogD3D11RHI: ~FD3D11DynamicRHI

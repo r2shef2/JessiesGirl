@@ -1,0 +1,2018 @@
+﻿Log file open, 11/26/19 00:49:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JessiesGirl
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291642
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Program Files/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.26-07.49.38:892][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.26-07.49.38:892][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.26-07.49.38:892][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.26-07.49.38:892][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.26-07.49.38:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.26-07.49.38:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.26-07.49.38:893][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.26-07.49.38:896][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.26-07.49.38:896][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.26-07.49.38:897][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.26-07.49.38:897][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.26-07.49.38:897][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.26-07.49.38:910][  0]LogHAL: Display: Platform has ~ 16 GB [17096101888 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.26-07.49.38:910][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.26-07.49.38:911][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.26-07.49.38:911][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.26-07.49.38:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Scalability.ini]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.26-07.49.38:912][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.26-07.49.38:913][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.26-07.49.38:913][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.26-07.49.38:913][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Config/Windows/Engine.ini]
+[2019.11.26-07.49.38:913][  0]LogInit: Computer: DESKTOP-F3TMPJ9
+[2019.11.26-07.49.38:913][  0]LogInit: User: Aldania
+[2019.11.26-07.49.38:913][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.26-07.49.38:913][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.26-07.49.38:914][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.26-07.49.38:914][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.26-07.49.38:914][  0]LogMemory: Process Physical Memory: 101.15 MB used, 101.15 MB peak
+[2019.11.26-07.49.38:914][  0]LogMemory: Process Virtual Memory: 94.42 MB used, 94.42 MB peak
+[2019.11.26-07.49.38:914][  0]LogMemory: Physical Memory: 11439.16 MB used,  4864.96 MB free, 16304.11 MB total
+[2019.11.26-07.49.38:914][  0]LogMemory: Virtual Memory: 4640.90 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.11.26-07.49.38:942][  0]LogInit: Using OS detected language (en-US).
+[2019.11.26-07.49.38:942][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.26-07.49.38:943][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.26-07.49.39:213][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.26-07.49.39:213][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.26-07.49.39:586][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.26-07.49.39:663][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.11.26-07.49.39:663][  0]LogD3D11RHI:       4021/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.26-07.49.39:680][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.26-07.49.39:680][  0]LogD3D11RHI:       128/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.26-07.49.39:683][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.26-07.49.39:683][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.26-07.49.39:683][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.26-07.49.39:732][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.26-07.49.39:733][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.11.26-07.49.39:733][  0]LogWindows: EnumDisplayDevices:
+[2019.11.26-07.49.39:733][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.11.26-07.49.39:733][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.26-07.49.39:734][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.26-07.49.39:734][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.11.26-07.49.39:734][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.11.26-07.49.39:734][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.11.26-07.49.39:734][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.11.26-07.49.39:734][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.11.26-07.49.39:789][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.26-07.49.39:794][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.26-07.49.39:795][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.26-07.49.39:795][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.26-07.49.39:803][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.26-07.49.40:270][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.26-07.49.40:284][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.26-07.49.40:299][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.26-07.49.40:314][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.26-07.49.40:330][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.26-07.49.40:346][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.26-07.49.40:361][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.26-07.49.40:376][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.26-07.49.40:384][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.26-07.49.40:492][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.26-07.49.40:496][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.26-07.49.40:550][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.26-07.49.40:550][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.26-07.49.40:580][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.26-07.49.40:581][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.26-07.49.40:596][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.26-07.49.40:611][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.26-07.49.40:627][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.26-07.49.40:644][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.26-07.49.40:698][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.26-07.49.40:698][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.26-07.49.40:698][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.26-07.49.40:709][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.26-07.49.40:779][  0]LogShaderCompilers: Guid format shader working directory is -52 characters bigger than the processId version (../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Intermediate/Shaders/WorkingDirectory/26496/).
+[2019.11.26-07.49.40:779][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alann/AppData/Local/Temp/UnrealShaderWorkingDir/2C7602384F78D04D4F4B7D99D8A51812/'.
+[2019.11.26-07.49.40:782][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.26-07.49.40:782][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.26-07.49.40:782][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.26-07.49.41:482][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.26-07.49.41:536][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Alann/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.26-07.49.41:536][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alann/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.26-07.49.41:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.26-07.49.41:536][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.26-07.49.41:536][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.26-07.49.41:536][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.26-07.49.41:550][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.26-07.49.41:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.26-07.49.41:550][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.26-07.49.41:563][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alann/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.26-07.49.41:563][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.26-07.49.41:563][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.26-07.49.41:589][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.26-07.49.41:591][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.26-07.49.41:592][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.26-07.49.41:707][  0]LogAssetRegistry: FAssetRegistry took 0.0400 seconds to start up
+[2019.11.26-07.49.42:207][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.26-07.49.42:404][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.26-07.49.42:404][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.26-07.49.42:404][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.26-07.49.42:404][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.26-07.49.42:404][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.26-07.49.42:416][  0]LogNetVersion: JessiesGirl 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2280906462)
+[2019.11.26-07.49.42:935][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.058986 seconds
+[2019.11.26-07.49.42:943][  0]LogUObjectArray: 41958 objects as part of root set at end of initial load.
+[2019.11.26-07.49.42:944][  0]LogUObjectAllocator: 7284248 out of 0 bytes used by permanent object pool.
+[2019.11.26-07.49.42:944][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.26-07.49.44:145][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.26-07.49.44:159][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.26-07.49.44:290][  0]SourceControl: Source control is disabled
+[2019.11.26-07.49.44:290][  0]SourceControl: Source control is disabled
+[2019.11.26-07.49.44:293][  0]SourceControl: Source control is disabled
+[2019.11.26-07.49.44:295][  0]SourceControl: Source control is disabled
+[2019.11.26-07.49.44:433][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.26-07.49.44:630][  0]LogOcInput: OculusInput pre-init called
+[2019.11.26-07.49.45:603][  0]LogEngine: Initializing Engine...
+[2019.11.26-07.49.45:605][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.26-07.49.45:870][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.26-07.49.45:885][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.26-07.49.45:936][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.26-07.49.46:301][  0]LogInit: FAudioDevice initialized.
+[2019.11.26-07.49.46:302][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.26-07.49.46:379][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Alann/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.26-07.49.46:381][  0]LogInit: Texture streaming: Enabled
+[2019.11.26-07.49.46:402][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.26-07.49.46:428][  0]LogInit: Transaction tracking system initialized
+[2019.11.26-07.49.46:454][  0]BlueprintLog: New page: Editor Load
+[2019.11.26-07.49.46:549][  0]LocalizationService: Localization service is disabled
+[2019.11.26-07.49.46:974][  0]LogFileCache: Scanning file cache for directory 'E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/' took 0.04s
+[2019.11.26-07.49.46:974][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.26-07.49.46:974][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.26-07.49.47:224][  0]SourceControl: Source control is disabled
+[2019.11.26-07.49.47:225][  0]LogEditorServer: Warning: Can't find file '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.11.26-07.49.47:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-07.49.47:225][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.469ms to complete.
+[2019.11.26-07.49.47:225][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.001
+[2019.11.26-07.49.47:384][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-07.49.47:393][  0]LogCollectionManager: Loaded 0 collections in 0.001965 seconds
+[2019.11.26-07.49.47:438][  0]LogFileCache: Scanning file cache for directory 'E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/Collections/' took 0.01s
+[2019.11.26-07.49.47:438][  0]LogFileCache: Scanning file cache for directory 'E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Developers/Aldania/Collections/' took 0.01s
+[2019.11.26-07.49.47:438][  0]LogFileCache: Scanning file cache for directory 'E:/OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Collections/' took 0.01s
+[2019.11.26-07.49.47:439][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.26-07.49.47:453][  0]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2729 classes and 654 folders.
+[2019.11.26-07.49.47:462][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.11.26-07.49.47:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:473][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:475][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:491][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.26-07.49.47:565][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.11.26-07.49.47:571][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.26-07.49.47:677][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.26-07.49.47:680][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.26-07.49.47:774][  0]LogRenderer: Reallocating scene render targets to support 1052x496 Format 10 NumSamples 1 (Frame:1).
+[2019.11.26-07.49.47:931][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.26-07.49.47:931][  0]LogLoad: (Engine Initialization) Total time: 11.93 seconds
+[2019.11.26-07.49.47:931][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.26-07.49.47:990][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.26-07.49.48:017][  1]LogAssetRegistry: Asset discovery search completed in 6.3324 seconds
+[2019.11.26-07.49.48:020][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.11.26-07.49.48:020][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.11.26-07.49.50:245][ 83]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.26-07.49.50:247][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-07.49.50:254][ 83]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Sequence/SequenceMaster.SequenceMaster
+[2019.11.26-07.49.50:342][ 83]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.26-07.49.50:882][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.49.50:883][ 84]LogSlate: Window 'Plugins' being destroyed
+[2019.11.26-07.49.50:892][ 84]LogSlate: Window 'Plugins' being destroyed
+[2019.11.26-07.49.50:892][ 84]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.11.26-07.49.52:908][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.49.52:923][253]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.26-07.49.56:174][383]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2019.11.26-07.49.56:175][383]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2019.11.26-07.49.56:175][383]LogPhysics: Warning: Failed to cook convex: /Game/Assets/CellPhone/CellPhone_VolumeButton.CellPhone_VolumeButton 0 (FlipX:0). The remaining elements will not get cooked.
+[2019.11.26-07.49.56:175][383]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2019.11.26-07.49.56:175][383]LogPhysics: Warning: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2019.11.26-07.49.56:175][383]LogPhysics: Warning: Failed to cook convex: /Game/Assets/CellPhone/CellPhone_VolumeButton.CellPhone_VolumeButton 0 (FlipX:1). The remaining elements will not get cooked.
+[2019.11.26-07.49.56:175][383]LogPhysics: Warning: Attempt to build physics data for /Game/Assets/CellPhone/CellPhone_VolumeButton.CellPhone_VolumeButton:BodySetup_0 when we are unable to.
+[2019.11.26-07.49.56:422][383]LogAIModule: Creating AISystem for world ShotScene
+[2019.11.26-07.49.56:514][383]LogAssetEditorManager: Opening Asset editor for World /Game/Scene/ShotScene.ShotScene
+[2019.11.26-07.49.56:545][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.11.26-07.49.56:545][383]Cmd: MAP LOAD FILE="../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.26-07.49.56:545][383]LightingResults: New page: Lighting Build
+[2019.11.26-07.49.56:549][383]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2019.11.26-07.49.56:550][383]LoadErrors: New page: Loading map: ShotScene.umap
+[2019.11.26-07.49.56:582][383]MapCheck: New page: Map Check
+[2019.11.26-07.49.56:582][383]LightingResults: New page: Lighting Build
+[2019.11.26-07.49.56:608][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.26-07.49.56:616][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.49.56:616][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ3_10.StaticMeshComponent0' 
+[2019.11.26-07.49.56:616][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ4.StaticMeshComponent0' 
+[2019.11.26-07.49.56:616][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ5.StaticMeshComponent0' 
+[2019.11.26-07.49.56:616][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ6.StaticMeshComponent0' 
+[2019.11.26-07.49.56:616][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ7.StaticMeshComponent0' 
+[2019.11.26-07.49.56:616][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ8.StaticMeshComponent0' 
+[2019.11.26-07.49.56:637][383]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.11.26-07.49.56:637][383]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.11.26-07.49.56:638][383]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2019.11.26-07.49.56:638][383]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.11.26-07.49.56:939][383]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.26-07.49.56:968][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.11.26-07.49.57:004][383]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.26-07.49.57:005][383]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.472ms to complete.
+[2019.11.26-07.49.57:005][383]LogFileHelpers: Loading map 'ShotScene' took 0.460
+[2019.11.26-07.49.58:786][434]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.49.58:788][434]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.49.59:082][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.49.59:084][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.02:505][521]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.02:610][525]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.02:769][531]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.02:817][533]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.03:103][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.03:106][544]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.03:130][545]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.03:153][546]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.05:498][613]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.05:637][616]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.06:182][633]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.06:660][650]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.08:763][697]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.08:856][698]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.30:301][646]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.32:987][723]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.47:662][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.47:664][737]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.47:950][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.50.47:951][743]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-07.51.01:361][377]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/CellPhone/CellPhone_PhoneBody.CellPhone_PhoneBody
+[2019.11.26-07.51.12:938][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.51.55:383][ 91]LogFactory: Error: Can't find file 'textures\MobilePhone_D2.jpg' for import
+[2019.11.26-07.51.55:390][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-07.52.26:140][ 91]LogSlate: Window 'Message' being destroyed
+[2019.11.26-07.52.26:145][ 91]LogAssetTools: Warning: Failed to import 'textures\MobilePhone_D2.jpg'. Failed to create asset '/Game/Assets/CellPhone/MobilePhone_D2'.
+Please see Output Log for details.
+[2019.11.26-07.52.26:149][ 91]LogFactory: Error: Can't find file 'textures\MobilePhone_AO.jpg' for import
+[2019.11.26-07.52.27:146][ 91]LogSlate: Window 'Message' being destroyed
+[2019.11.26-07.52.27:150][ 91]LogAssetTools: Warning: Failed to import 'textures\MobilePhone_AO.jpg'. Failed to create asset '/Game/Assets/CellPhone/MobilePhone_AO'.
+Please see Output Log for details.
+[2019.11.26-07.52.32:097][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\OneDrive\OneDrive - University of Utah\Fall 2019\Machinima\Jesse's Girl - Cast\Cell\MobilePhone_D2.jpg)
+[2019.11.26-07.52.32:129][151]LogTexture: Display: Building textures: MobilePhone_D2 (AutoDXT, 1024X1024)
+[2019.11.26-07.52.32:341][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\OneDrive\OneDrive - University of Utah\Fall 2019\Machinima\Jesse's Girl - Cast\Cell\MobilePhone_AO.jpg)
+[2019.11.26-07.52.32:365][151]LogTexture: Display: Building textures: MobilePhone_AO (AutoDXT, 1024X1024)
+[2019.11.26-07.52.36:651][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.52.41:914][552]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/CellPhone/MobilePhone_D2.MobilePhone_D2
+[2019.11.26-07.52.41:943][552]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.26-07.52.59:130][168]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/CellPhone/PhoneBody_m.PhoneBody_m
+[2019.11.26-07.52.59:140][168]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.52.59:332][168]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.52.59:348][168]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.26-07.52.59:352][168]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.52.59:407][168]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.11.26-07.52.59:480][168]LogSlate: Took 0.002013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.26-07.52.59:660][169]LogSlate: Took 0.002120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.26-07.53.01:446][222]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.26-07.53.01:476][222]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.53.01:503][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.26-07.53.01:540][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.11.26-07.53.01:550][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.26-07.53.02:925][256]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.26-07.53.06:620][338]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.26-07.53.07:047][359]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.53.07:081][359]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.26-07.53.09:263][405]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.53.09:287][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.26-07.53.09:329][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.11.26-07.53.09:341][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.11.26-07.53.09:354][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.26-07.53.10:952][441]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.26-07.53.11:446][469]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.53.11:477][469]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.11.26-07.53.13:501][505]LogMaterialEditor: Applying material PhoneBody_m
+[2019.11.26-07.53.14:245][505]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.26-07.53.14:277][505]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.53.14:402][505]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.53.14:443][505]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.53.14:532][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.11.26-07.53.14:547][505]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.26-07.53.19:110][505]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.26-07.53.19:110][505]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.26-07.53.19:117][505]TextureStreamingBuild: Display: Compiling optional shaders took 4.585 seconds.
+[2019.11.26-07.53.19:156][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.11.26-07.53.28:021][714]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.11.26-07.53.28:021][714]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 188 instructions
+[2019.11.26-07.53.28:021][714]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.11.26-07.53.28:021][714]MaterialEditorStats: Texture samplers: 5/16
+[2019.11.26-07.53.28:021][714]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.11.26-07.53.28:021][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.26-07.53.38:826][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.53.43:992][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-07.53.56:870][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.54.00:347][887]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.54.00:380][888]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.26-07.54.04:323][970]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.11.26-07.54.12:594][131]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.11.26-07.54.12:594][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.11.26-07.54.12:594][131]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.11.26-07.54.12:594][131]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.26-07.54.12:594][131]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.26-07.54.12:594][131]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.26-07.54.17:899][328]LogMaterialEditor: Applying material PhoneBody_m
+[2019.11.26-07.54.18:422][328]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.54.18:481][328]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.11.26-07.54.18:505][328]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.54.18:538][328]LogMaterial: Display: Missing cached shader map for material PhoneBody_m, compiling. 
+[2019.11.26-07.54.18:598][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.11.26-07.54.18:631][328]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.26-07.54.21:439][328]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.11.26-07.54.21:439][328]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.11.26-07.54.21:443][328]TextureStreamingBuild: Display: Compiling optional shaders took 2.826 seconds.
+[2019.11.26-07.54.21:473][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.26-07.54.27:403][498]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.11.26-07.54.27:404][498]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.11.26-07.54.27:404][498]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.11.26-07.54.27:404][498]MaterialEditorStats: Texture samplers: 4/16
+[2019.11.26-07.54.27:404][498]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.11.26-07.54.27:404][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.26-07.54.27:771][512]LogMaterialEditor: Saving and Compiling material PhoneBody_m
+[2019.11.26-07.54.27:950][512]LogSavePackage: Moving '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/PhoneBody_m7433036645DFD303844827AA23E393E3.tmp' to '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Assets/CellPhone/PhoneBody_m.uasset'
+[2019.11.26-07.54.31:996][640]LogRenderer: Reallocating scene render targets to support 1248x784 Format 10 NumSamples 1 (Frame:3556).
+[2019.11.26-07.54.35:749][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-07.54.48:669][237]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-07.54.55:814][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.54.56:495][472]LogSavePackage: Moving '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/CellPhone_PhoneBodyBBE356E0478525AEAF60EDB69DACC2FE.tmp' to '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Assets/CellPhone/CellPhone_PhoneBody.uasset'
+[2019.11.26-07.54.57:552][500]LogSlate: Window 'PhoneBody_m' being destroyed
+[2019.11.26-07.54.57:590][500]LogSlate: Window 'PhoneBody_m' being destroyed
+[2019.11.26-07.55.06:941][817]LogActorFactory: Actor Factory created CellPhone_PhoneBody
+[2019.11.26-07.55.09:746][918]LogActorFactory: Actor Factory created CellPhone_PhoneBody
+[2019.11.26-07.55.17:147][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-07.55.18:204][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-07.55.21:503][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.55.33:190][926]Cmd: TRANSACTION UNDO
+[2019.11.26-07.55.33:190][926]LogEditorTransaction: Undo Move Actors
+[2019.11.26-07.55.37:032][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.55.51:476][629]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-07.55.57:639][888]Cmd: TRANSACTION UNDO
+[2019.11.26-07.55.57:639][888]LogEditorTransaction: Undo Scale Actors
+[2019.11.26-07.56.07:918][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.56.08:002][318]Cmd: MODE GRID=0
+[2019.11.26-07.56.10:556][453]Cmd: MODE SCALEGRID=0
+[2019.11.26-07.56.25:088][205]Cmd: TRANSACTION UNDO
+[2019.11.26-07.56.25:088][205]LogEditorTransaction: Undo Move Actors
+[2019.11.26-07.56.59:000][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.57.18:736][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.57.29:485][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-07.57.31:277][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-07.57.32:150][ 83]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.26-07.57.41:265][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.58.06:452][478]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-07.58.12:125][716]Cmd: TRANSACTION UNDO
+[2019.11.26-07.58.12:125][716]LogEditorTransaction: Undo Move Actors
+[2019.11.26-07.58.27:600][355]Cmd: TRANSACTION UNDO
+[2019.11.26-07.58.27:600][355]LogEditorTransaction: Undo Move Actors
+[2019.11.26-07.58.30:085][447]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-07.58.45:500][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-07.59.01:504][849]Cmd: TRANSACTION UNDO
+[2019.11.26-07.59.01:504][849]LogEditorTransaction: Undo Move Actors
+[2019.11.26-07.59.13:084][359]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-07.59.28:220][ 32]Cmd: TRANSACTION UNDO
+[2019.11.26-07.59.28:220][ 32]LogEditorTransaction: Undo Rotate Actors
+[2019.11.26-07.59.53:341][155]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-07.59.54:550][208]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-08.00.21:286][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.00.36:839][136]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.00.38:164][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.00.39:829][261]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.00.43:255][396]Cmd: TRANSACTION UNDO
+[2019.11.26-08.00.43:255][396]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.00.53:319][928]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.01.09:757][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.01.15:123][  4]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.01.17:297][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.01.21:579][336]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Jessie)
+[2019.11.26-08.01.22:915][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.01.24:416][474]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (Jessie)
+[2019.11.26-08.01.24:515][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-08.01.25:594][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.01.25:918][566]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.01.25:968][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-08.01.38:726][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.01.40:112][433]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Jessie)
+[2019.11.26-08.01.41:310][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.01.44:845][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.01.51:407][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_Jessie_sGirl_RJS2)
+[2019.11.26-08.01.52:796][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.02.10:503][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-08.02.17:731][354]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.02.17:772][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-08.02.23:980][826]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.26-08.02.25:054][891]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.26-08.02.30:212][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.02.33:761][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.02.34:599][467]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.02.38:919][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.02.40:471][710]Cmd: TRANSACTION UNDO
+[2019.11.26-08.02.40:471][710]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.26-08.02.41:656][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.02.45:586][921]Cmd: TRANSACTION UNDO
+[2019.11.26-08.02.45:586][921]LogEditorTransaction: Undo Rotate Actors
+[2019.11.26-08.03.12:691][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.03.20:639][513]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-08.03.20:641][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.03.32:684][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.03.41:597][411]Cmd: TRANSACTION UNDO
+[2019.11.26-08.03.41:597][411]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.03.42:936][483]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.03.54:150][833]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-08.03.58:150][936]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.04.29:899][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.04.29:998][564]Cmd: MODE ROTGRID=0
+[2019.11.26-08.04.52:628][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.06.28:828][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.06.54:768][829]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.07.07:955][422]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-08.07.14:174][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.10.16:323][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.10.31:643][186]Cmd: TRANSACTION UNDO
+[2019.11.26-08.10.31:643][186]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.10.59:763][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.11.16:409][474]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Jessie)
+[2019.11.26-08.11.17:588][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.11.23:017][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.11.29:113][981]Cmd: TRANSACTION UNDO
+[2019.11.26-08.11.29:113][981]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.11.50:339][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.12.04:434][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.12.08:631][803]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.12.15:684][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.12.16:822][171]Cmd: TRANSACTION UNDO
+[2019.11.26-08.12.16:823][171]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.12.19:375][258]Cmd: TRANSACTION UNDO
+[2019.11.26-08.12.19:375][258]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.12.29:692][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.12.42:277][954]Cmd: TRANSACTION UNDO
+[2019.11.26-08.12.42:277][954]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.12.44:971][ 53]Cmd: TRANSACTION UNDO
+[2019.11.26-08.12.44:971][ 53]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.12.54:997][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.12.57:120][583]Cmd: TRANSACTION UNDO
+[2019.11.26-08.12.57:120][583]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.13.00:695][765]Cmd: TRANSACTION UNDO
+[2019.11.26-08.13.00:695][765]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.13.09:127][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.13.28:660][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.13.32:656][214]Cmd: TRANSACTION UNDO
+[2019.11.26-08.13.32:656][214]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.13.41:871][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.14.12:387][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-08.14.20:501][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.14.39:032][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.14.41:366][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_Jessie_sGirl_RJS2)
+[2019.11.26-08.14.44:129][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.14.55:065][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.14.55:973][ 98]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.15.01:201][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.15.01:933][383]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.15.01:933][383]Can't find target actor or component.
+[2019.11.26-08.15.02:697][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.15.03:207][442]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.15.05:672][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.15.06:644][601]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.15.20:367][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.15.21:566][382]Cmd: TRANSACTION UNDO
+[2019.11.26-08.15.21:566][382]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.15.26:868][665]Cmd: TRANSACTION UNDO
+[2019.11.26-08.15.26:868][665]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.15.37:733][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.15.42:670][207]Cmd: TRANSACTION UNDO
+[2019.11.26-08.15.42:670][207]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.15.50:539][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.16.08:759][345]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.16.10:359][435]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-08.16.17:345][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.16.18:299][893]Cmd: TRANSACTION UNDO
+[2019.11.26-08.16.18:299][893]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.16.27:667][379]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-08.16.37:029][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.16.50:435][345]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.16.56:021][606]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.17.08:381][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.17.21:102][713]Cmd: TRANSACTION UNDO
+[2019.11.26-08.17.21:102][713]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.17.22:526][771]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-08.17.37:292][292]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-08.17.47:284][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.17.58:272][134]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.18.04:828][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.18.10:235][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.18.15:497][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.19.02:458][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.19.24:950][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.19.40:792][900]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.19.50:749][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.19.53:240][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.20.02:022][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.20.03:818][885]Cmd: TRANSACTION UNDO
+[2019.11.26-08.20.03:819][885]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.20.14:248][341]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.20.18:621][537]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-08.20.20:314][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.20.23:262][764]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.20.28:519][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.20.30:495][115]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.20.31:920][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.20.34:018][290]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.20.37:015][435]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.20.47:177][863]Cmd: TRANSACTION UNDO
+[2019.11.26-08.20.47:177][863]LogEditorTransaction: Undo Rotate Actors
+[2019.11.26-08.20.47:430][869]Cmd: TRANSACTION UNDO
+[2019.11.26-08.20.47:430][869]LogEditorTransaction: Undo Rotate Actors
+[2019.11.26-08.20.49:219][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.20.51:483][ 10]Cmd: TRANSACTION UNDO
+[2019.11.26-08.20.51:483][ 10]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.21.01:417][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.21.11:055][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarStool5)
+[2019.11.26-08.21.12:734][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.21.29:501][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.21.30:447][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.21.33:814][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.21.34:275][962]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.21.44:153][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.21.45:217][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarStool5)
+[2019.11.26-08.21.46:485][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.22.09:870][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CellPhone_PhoneBody2)
+[2019.11.26-08.22.10:884][599]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.22.13:577][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.22.14:542][762]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.22.20:389][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.22.21:788][109]Cmd: TRANSACTION UNDO
+[2019.11.26-08.22.21:788][109]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.22.35:663][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BarStool5)
+[2019.11.26-08.22.36:740][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.22.50:697][528]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.22.50:700][528]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.22.51:122][537]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.22.51:124][537]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.22.58:496][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.22.58:498][914]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.22.58:782][920]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.22.58:784][920]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.02:538][ 83]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.02:541][ 83]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.02:713][ 86]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.02:715][ 86]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.11:269][469]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.11:271][469]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.11:418][472]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.11:420][472]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.50:652][123]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.23.54:630][268]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.24.01:742][567]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.24.06:611][766]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.25.57:120][832]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.25.57:122][832]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.26.02:886][ 99]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.26.02:888][ 99]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.27.34:570][904]Cmd: TRANSACTION UNDO
+[2019.11.26-08.27.34:570][904]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.28.15:683][769]Cmd: EDIT PASTE
+[2019.11.26-08.28.17:134][832]Cmd: TRANSACTION UNDO
+[2019.11.26-08.28.17:134][832]LogEditorTransaction: Undo Paste
+[2019.11.26-08.28.35:899][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.28.53:826][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.29.12:671][168]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rosy)
+[2019.11.26-08.29.17:378][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.30.27:358][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.30.46:879][904]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-08.30.52:860][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.31.06:528][646]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.06:528][646]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.31.06:839][656]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.06:839][656]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.31.07:087][665]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.07:087][665]LogEditorTransaction: Undo Select None
+[2019.11.26-08.31.08:180][706]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.08:180][706]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.31.08:938][735]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.08:938][735]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.31.12:626][876]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.12:626][876]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.31.12:875][884]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.12:875][884]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.31.13:157][893]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.13:157][893]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.31.13:438][904]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.13:438][904]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.31.13:718][914]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.13:718][914]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.31.13:995][924]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.13:996][924]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.31.14:558][945]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.14:558][945]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.31.14:919][958]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.14:919][958]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.31.15:172][967]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.15:172][967]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.31.15:846][993]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.15:846][993]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.31.16:358][ 11]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.16:358][ 11]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.31.16:775][ 27]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.16:775][ 27]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.31.17:227][ 43]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.17:227][ 43]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.31.17:591][ 57]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.17:592][ 57]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.31.17:921][ 68]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.17:921][ 68]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.31.18:283][ 82]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.18:283][ 82]LogEditorTransaction: Undo Select None
+[2019.11.26-08.31.18:591][ 93]Cmd: TRANSACTION UNDO
+[2019.11.26-08.31.18:591][ 93]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.32.16:687][547]Cmd: TRANSACTION UNDO
+[2019.11.26-08.32.16:687][547]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.32.20:938][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.32.25:638][913]Cmd: TRANSACTION UNDO
+[2019.11.26-08.32.25:638][913]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.32.25:989][924]Cmd: TRANSACTION UNDO
+[2019.11.26-08.32.25:990][924]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.32.27:151][968]Cmd: TRANSACTION UNDO
+[2019.11.26-08.32.27:151][968]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.32.28:557][ 22]Cmd: TRANSACTION UNDO
+[2019.11.26-08.32.28:557][ 22]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.32.52:273][ 54]Cmd: TRANSACTION UNDO
+[2019.11.26-08.32.52:274][ 54]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.32.59:091][309]Cmd: TRANSACTION UNDO
+[2019.11.26-08.32.59:091][309]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.32.59:921][338]Cmd: TRANSACTION UNDO
+[2019.11.26-08.32.59:921][338]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.34.13:951][437]Cmd: TRANSACTION UNDO
+[2019.11.26-08.34.13:951][437]LogEditorTransaction: Undo Resize section
+[2019.11.26-08.34.18:683][617]Cmd: TRANSACTION UNDO
+[2019.11.26-08.34.18:683][617]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.34.19:793][658]Cmd: TRANSACTION UNDO
+[2019.11.26-08.34.19:794][658]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.34.20:306][678]Cmd: TRANSACTION UNDO
+[2019.11.26-08.34.20:306][678]LogEditorTransaction: Undo Paste Keys
+[2019.11.26-08.34.53:133][ 76]Cmd: TRANSACTION UNDO
+[2019.11.26-08.34.53:133][ 76]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.34.54:848][140]Cmd: TRANSACTION UNDO
+[2019.11.26-08.34.54:848][140]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.35.33:942][698]Cmd: TRANSACTION UNDO
+[2019.11.26-08.35.33:942][698]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.36.31:222][988]Cmd: TRANSACTION UNDO
+[2019.11.26-08.36.31:222][988]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.36.34:891][126]Cmd: TRANSACTION UNDO
+[2019.11.26-08.36.34:891][126]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.36.41:985][398]Cmd: TRANSACTION UNDO
+[2019.11.26-08.36.41:985][398]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.36.43:572][456]Cmd: TRANSACTION UNDO
+[2019.11.26-08.36.43:572][456]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.36.51:993][779]Cmd: TRANSACTION UNDO
+[2019.11.26-08.36.51:993][779]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.36.53:689][841]Cmd: TRANSACTION UNDO
+[2019.11.26-08.36.53:689][841]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.37.04:364][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.37.10:806][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.37.41:356][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.37.44:693][211]Cmd: TRANSACTION UNDO
+[2019.11.26-08.37.44:693][211]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.37.48:389][384]Cmd: TRANSACTION UNDO
+[2019.11.26-08.37.48:389][384]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.38.10:875][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.38.49:183][811]Cmd: TRANSACTION UNDO
+[2019.11.26-08.38.49:183][811]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.38.53:636][980]Cmd: TRANSACTION UNDO
+[2019.11.26-08.38.53:636][980]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.40.32:727][133]Cmd: TRANSACTION UNDO
+[2019.11.26-08.40.32:727][133]LogEditorTransaction: Undo Move Key
+[2019.11.26-08.40.34:012][180]Cmd: TRANSACTION UNDO
+[2019.11.26-08.40.34:012][180]LogEditorTransaction: Undo Move Key
+[2019.11.26-08.40.34:427][196]Cmd: TRANSACTION UNDO
+[2019.11.26-08.40.34:427][196]LogEditorTransaction: Undo Move Key
+[2019.11.26-08.40.39:130][395]Cmd: TRANSACTION UNDO
+[2019.11.26-08.40.39:130][395]LogEditorTransaction: Undo Move Key
+[2019.11.26-08.40.39:551][408]Cmd: TRANSACTION UNDO
+[2019.11.26-08.40.39:551][408]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.02:959][954]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.02:959][954]LogEditorTransaction: Undo Cut Selection
+[2019.11.26-08.43.03:851][985]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.03:851][985]LogEditorTransaction: Undo Cut Selection
+[2019.11.26-08.43.04:048][992]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.04:048][992]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.04:270][  0]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.04:270][  0]LogEditorTransaction: Undo Cut Selection
+[2019.11.26-08.43.04:476][  7]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.04:476][  7]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.04:690][ 15]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.04:690][ 15]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.04:874][ 22]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.04:874][ 22]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.05:082][ 30]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.05:082][ 30]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.05:263][ 37]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.05:263][ 37]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.05:470][ 45]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.05:470][ 45]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.05:684][ 53]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.05:684][ 53]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.05:893][ 61]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.05:894][ 61]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.06:100][ 69]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.06:100][ 69]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.07:332][117]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.07:332][117]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.43.07:547][124]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.07:547][124]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.07:752][132]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.07:752][132]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.08:002][141]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.08:002][141]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.43.08:235][150]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.08:235][150]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.08:448][158]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.08:448][158]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.08:699][167]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.08:699][167]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.08:905][175]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.08:905][175]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.09:268][189]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.09:268][189]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.09:505][198]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.09:505][198]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.09:767][208]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.09:767][208]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.10:050][218]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.10:050][218]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.43.10:283][227]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.10:283][227]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.10:617][240]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.10:617][240]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.11:206][262]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.11:206][262]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.11:439][271]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.11:439][271]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.11:802][285]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.11:802][285]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.43.12:147][298]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.12:148][298]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.12:403][308]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.12:403][308]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.12:704][319]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.12:704][319]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.13:016][331]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.13:016][331]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.13:249][340]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.13:249][340]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.13:533][351]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.13:533][351]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.13:796][361]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.13:796][361]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.14:060][371]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.14:060][371]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.43.14:346][382]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.14:346][382]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.14:603][392]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.14:603][392]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.43.14:859][401]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.14:859][401]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.15:116][411]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.15:116][411]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.43.15:369][420]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.15:369][420]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.15:662][431]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.15:662][431]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.43.15:922][441]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.15:922][441]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.16:205][452]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.16:205][452]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.16:534][464]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.16:534][464]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.43.16:794][474]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.16:794][474]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.17:136][487]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.17:136][487]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.17:385][496]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.17:385][496]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.17:618][505]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.17:618][505]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.17:851][514]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.17:851][514]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.18:110][524]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.18:110][524]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.43.18:344][533]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.18:344][533]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.18:578][542]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.18:578][542]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.18:809][551]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.18:809][551]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.43.19:067][561]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.19:067][561]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.43.19:321][570]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.19:321][570]LogEditorTransaction: Undo Delete Sections
+[2019.11.26-08.43.19:553][578]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.19:553][578]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.43.19:813][588]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.19:813][588]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.20:099][599]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.20:099][599]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.20:356][609]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.20:356][609]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.43.20:666][621]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.20:666][621]LogEditorTransaction: Undo Delete Node
+[2019.11.26-08.43.20:951][631]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.20:951][631]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.21:237][642]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.21:237][642]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.43.21:531][653]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.21:531][653]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.43.21:791][663]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.21:791][663]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.22:025][672]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.22:025][672]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.22:258][681]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.22:258][681]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.22:568][693]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.22:569][693]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.22:778][701]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.22:778][701]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.43.23:048][710]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.23:048][710]LogEditorTransaction: Undo Resize section
+[2019.11.26-08.43.23:283][719]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.23:283][719]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.23:542][729]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.23:542][729]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.23:825][740]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.23:825][740]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.43.24:090][749]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.24:090][749]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.24:682][772]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.24:682][772]LogEditorTransaction: Undo Delete Sections
+[2019.11.26-08.43.25:127][788]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.25:127][788]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.26:818][853]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.26:818][853]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.27:026][861]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.27:026][861]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.27:267][870]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.27:268][870]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.27:530][880]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.27:530][880]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.27:739][888]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.27:739][888]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.28:075][901]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.28:075][901]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.28:317][910]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.28:317][910]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.28:653][923]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.28:653][923]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.29:076][939]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.29:076][939]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.26-08.43.29:362][950]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.29:362][950]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.29:721][963]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.29:721][963]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.30:041][975]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.30:041][975]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.30:333][986]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.30:333][986]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.30:947][  9]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.30:948][  9]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.31:232][ 20]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.31:232][ 20]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.31:571][ 33]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.31:571][ 33]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.43.31:882][ 45]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.31:882][ 45]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.32:142][ 55]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.32:142][ 55]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.32:761][ 79]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.32:762][ 79]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.33:089][ 91]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.33:089][ 91]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.43.33:479][106]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.33:479][106]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.33:738][116]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.33:738][116]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.34:005][126]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.34:005][126]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.34:284][136]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.34:284][136]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-08.43.34:569][147]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.34:569][147]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.34:830][157]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.34:830][157]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.35:063][166]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.35:063][166]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.35:318][175]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.35:318][175]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.35:551][184]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.35:551][184]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.36:221][209]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.36:221][209]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.36:402][216]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.36:402][216]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.43.36:557][222]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.36:557][222]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.43.36:742][228]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.36:742][228]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.36:923][235]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.36:924][235]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.37:105][242]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.37:105][242]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.37:276][248]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.37:276][248]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.37:469][255]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.37:469][255]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.37:650][261]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.37:650][261]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.43.37:862][269]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.37:862][269]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.38:068][277]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.38:068][277]LogEditorTransaction: Undo Select None
+[2019.11.26-08.43.38:275][284]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.38:275][284]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.26-08.43.38:504][292]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.38:505][292]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.38:768][302]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.38:768][302]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.39:033][312]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.39:033][312]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.39:319][323]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.39:319][323]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.26-08.43.39:553][331]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.39:553][331]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.26-08.43.39:886][343]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.39:886][343]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.40:163][353]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.40:163][353]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.40:452][364]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.40:452][364]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.26-08.43.40:736][374]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.40:736][374]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.26-08.43.40:992][383]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.40:992][383]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.41:253][393]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.41:253][393]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.41:525][403]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.41:525][403]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.41:784][413]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.41:784][413]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.42:051][423]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.42:051][423]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.42:284][432]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.42:284][432]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.42:523][441]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.42:523][441]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.42:762][450]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.42:762][450]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.42:998][459]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.42:998][459]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.43:190][466]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.43:190][466]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.43:437][475]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.43:437][475]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.43:654][483]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.43:654][483]LogEditorTransaction: Undo Scale Actors
+[2019.11.26-08.43.43:902][492]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.43:902][492]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.43.44:133][501]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.44:133][501]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.44:392][511]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.44:392][511]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.44:675][522]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.44:675][522]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.43.44:922][531]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.44:922][531]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.43.45:161][540]Cmd: TRANSACTION UNDO
+[2019.11.26-08.43.45:161][540]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.44.15:936][713]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rosy)
+[2019.11.26-08.46.30:566][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.49.32:974][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-08.49.44:338][568]Cmd: TRANSACTION UNDO
+[2019.11.26-08.49.44:338][568]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.49.45:267][602]Cmd: TRANSACTION UNDO
+[2019.11.26-08.49.45:268][602]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.49.49:230][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.52.58:194][908]Cmd: TRANSACTION UNDO
+[2019.11.26-08.52.58:194][908]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.54.42:987][955]Cmd: TRANSACTION UNDO
+[2019.11.26-08.54.42:987][955]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.55.45:777][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-08.56.21:428][758]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.21:428][758]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.56.21:704][767]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.21:704][767]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.23:603][837]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.23:604][837]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.24:044][854]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.24:044][854]LogEditorTransaction: Undo Select None
+[2019.11.26-08.56.24:289][863]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.24:289][863]LogEditorTransaction: Undo Resize section
+[2019.11.26-08.56.24:524][872]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.24:524][872]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.24:736][880]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.24:736][880]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.24:995][890]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.24:995][890]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.56.25:223][898]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.25:223][898]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.39:442][473]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.39:442][473]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.56.39:717][481]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.39:717][481]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.39:932][487]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.39:932][487]LogEditorTransaction: Undo Delete Sections
+[2019.11.26-08.56.40:143][494]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.40:144][494]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.40:344][501]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.40:344][501]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.40:554][509]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.40:554][509]LogEditorTransaction: Undo Move Actors
+[2019.11.26-08.56.40:779][517]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.40:779][517]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.56.40:991][525]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.40:991][525]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.41:227][534]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.41:227][534]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.41:461][543]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.41:461][543]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.41:696][552]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.41:696][552]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.56.41:957][561]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.41:957][561]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.42:193][570]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.42:193][570]LogEditorTransaction: Undo Select None
+[2019.11.26-08.56.42:460][579]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.42:460][579]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.42:671][587]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.42:671][587]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.42:934][597]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.42:935][597]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.43:171][606]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.43:171][606]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.43:460][617]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.43:460][617]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.56.43:729][627]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.43:729][627]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.43:994][637]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.43:994][637]LogEditorTransaction: Undo Select None
+[2019.11.26-08.56.44:538][657]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.44:538][657]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.44:960][673]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.44:960][673]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.45:301][686]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.45:301][686]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.45:539][695]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.45:539][695]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.45:773][704]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.45:773][704]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.45:981][712]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.45:982][712]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-08.56.46:216][721]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.46:216][721]LogEditorTransaction: Undo Delete Keys
+[2019.11.26-08.56.48:305][799]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.48:305][799]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.48:541][808]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.48:541][808]LogEditorTransaction: Undo Select None
+[2019.11.26-08.56.48:786][816]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.48:786][816]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.56.49:031][825]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.49:031][825]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.49:269][834]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.49:269][834]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.49:509][843]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.49:509][843]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.49:908][858]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.49:908][858]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.56.50:171][867]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.50:171][867]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.56.50:565][881]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.50:565][881]LogEditorTransaction: Undo Set Rotation
+[2019.11.26-08.56.53:706][999]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.53:706][999]LogEditorTransaction: Undo Delete Sections
+[2019.11.26-08.56.53:905][  6]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.53:905][  6]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.56.54:195][ 14]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.54:195][ 14]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.56.54:387][ 22]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.54:387][ 22]LogEditorTransaction: Undo Animatable Property Changed
+[2019.11.26-08.56.54:647][ 31]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.54:647][ 31]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.26-08.56.54:883][ 39]Cmd: TRANSACTION UNDO
+[2019.11.26-08.56.54:883][ 39]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.58.05:589][750]Cmd: TRANSACTION UNDO
+[2019.11.26-08.58.05:589][750]LogEditorTransaction: Undo Resize section
+[2019.11.26-08.58.08:307][852]Cmd: TRANSACTION UNDO
+[2019.11.26-08.58.08:307][852]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-08.58.09:845][911]Cmd: TRANSACTION UNDO
+[2019.11.26-08.58.09:845][911]LogEditorTransaction: Undo Select None
+[2019.11.26-08.58.10:669][942]Cmd: TRANSACTION UNDO
+[2019.11.26-08.58.10:669][942]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-08.59.00:263][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.59.00:265][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.59.00:516][802]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.59.00:518][802]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.59.00:672][805]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.59.00:674][805]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.59.10:781][319]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.59.14:763][464]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.59.21:895][774]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-08.59.26:765][971]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.01.45:857][558]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.01.45:859][558]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.01.46:012][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.01.46:014][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.01.56:338][ 94]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rick)
+[2019.11.26-09.01.59:838][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.03.21:518][945]Cmd: TRANSACTION UNDO
+[2019.11.26-09.03.21:518][945]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-09.03.21:829][959]Cmd: TRANSACTION UNDO
+[2019.11.26-09.03.21:830][959]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-09.03.22:990][ 26]Cmd: TRANSACTION UNDO
+[2019.11.26-09.03.22:990][ 26]LogEditorTransaction: Undo Select None
+[2019.11.26-09.05.23:427][ 73]Cmd: TRANSACTION UNDO
+[2019.11.26-09.05.23:427][ 73]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-09.06.04:443][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.11.26-09.06.06:361][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.06.31:057][ 20]Cmd: TRANSACTION UNDO
+[2019.11.26-09.06.31:057][ 20]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.06.45:515][855]Cmd: TRANSACTION UNDO
+[2019.11.26-09.06.45:515][855]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.06.45:975][877]Cmd: TRANSACTION UNDO
+[2019.11.26-09.06.45:975][877]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.06.47:719][979]Cmd: TRANSACTION UNDO
+[2019.11.26-09.06.47:719][979]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-09.06.48:386][ 16]Cmd: TRANSACTION UNDO
+[2019.11.26-09.06.48:386][ 16]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.26-09.07.17:089][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.07.18:163][703]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-09.07.24:386][991]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.07.24:439][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-09.07.31:335][393]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.07.32:534][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.08.17:536][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.08.41:116][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.09.08:608][154]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-09.09.11:849][311]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-09.09.17:141][551]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-09.09.19:360][649]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.09.20:613][703]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.09.21:555][742]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.09.28:474][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-09.09.32:323][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.09.46:912][941]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-09.09.50:978][143]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rick)
+[2019.11.26-09.09.52:094][200]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.09.54:678][323]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rick)
+[2019.11.26-09.09.55:793][381]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.09.58:384][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-09.10.04:109][741]LogEditorViewport: Clicking Background
+[2019.11.26-09.10.04:868][778]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.10.08:423][865]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rick)
+[2019.11.26-09.10.10:703][952]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.10.14:190][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.10.24:049][586]Cmd: TRANSACTION UNDO
+[2019.11.26-09.10.24:049][586]LogEditorTransaction: Undo Move Actors
+[2019.11.26-09.10.27:890][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.10.49:842][708]Cmd: TRANSACTION UNDO
+[2019.11.26-09.10.49:842][708]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.11.15:955][900]Cmd: TRANSACTION UNDO
+[2019.11.26-09.11.15:956][900]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-09.12.13:921][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.12.32:594][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.13.07:455][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.13.21:891][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.13.47:897][798]Cmd: TRANSACTION UNDO
+[2019.11.26-09.13.47:897][798]LogEditorTransaction: Undo Duplicate Keys or Sections
+[2019.11.26-09.13.59:867][367]Cmd: TRANSACTION UNDO
+[2019.11.26-09.13.59:867][367]LogEditorTransaction: Undo Move Actors
+[2019.11.26-09.14.01:077][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.14.59:897][263]Cmd: TRANSACTION UNDO
+[2019.11.26-09.14.59:897][263]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.15.27:111][618]Cmd: TRANSACTION UNDO
+[2019.11.26-09.15.27:111][618]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.15.50:295][813]Cmd: TRANSACTION UNDO
+[2019.11.26-09.15.50:295][813]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.16.19:142][303]Cmd: TRANSACTION UNDO
+[2019.11.26-09.16.19:142][303]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.16.23:853][521]Cmd: TRANSACTION UNDO
+[2019.11.26-09.16.23:853][521]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.16.28:082][720]Cmd: TRANSACTION UNDO
+[2019.11.26-09.16.28:082][720]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.16.45:385][538]Cmd: TRANSACTION UNDO
+[2019.11.26-09.16.45:386][538]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.16.46:335][577]Cmd: TRANSACTION UNDO
+[2019.11.26-09.16.46:335][577]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.16.47:814][648]Cmd: TRANSACTION UNDO
+[2019.11.26-09.16.47:814][648]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.16.48:421][675]Cmd: TRANSACTION UNDO
+[2019.11.26-09.16.48:421][675]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.16.49:200][711]Cmd: TRANSACTION UNDO
+[2019.11.26-09.16.49:200][711]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.16.50:215][762]Cmd: TRANSACTION UNDO
+[2019.11.26-09.16.50:215][762]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.18.58:365][519]Cmd: TRANSACTION UNDO
+[2019.11.26-09.18.58:365][519]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.19.07:502][981]Cmd: TRANSACTION UNDO
+[2019.11.26-09.19.07:502][981]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.20.28:933][422]Cmd: TRANSACTION UNDO
+[2019.11.26-09.20.28:933][422]LogEditorTransaction: Undo Select Actors/Components
+[2019.11.26-09.21.57:180][ 32]Cmd: TRANSACTION UNDO
+[2019.11.26-09.21.57:180][ 32]LogEditorTransaction: Undo Move Key
+[2019.11.26-09.21.57:609][ 48]Cmd: TRANSACTION UNDO
+[2019.11.26-09.21.57:609][ 48]LogEditorTransaction: Undo Move Key
+[2019.11.26-09.22.00:836][210]LogEditorTransaction: Undo Move Key
+[2019.11.26-09.22.03:576][347]LogEditorTransaction: Undo Move Key
+[2019.11.26-09.22.11:880][770]Cmd: TRANSACTION UNDO
+[2019.11.26-09.22.11:880][770]LogEditorTransaction: Undo Set Interp Break
+[2019.11.26-09.22.12:129][779]Cmd: TRANSACTION UNDO
+[2019.11.26-09.22.12:129][779]LogEditorTransaction: Undo Set Interp User
+[2019.11.26-09.22.15:362][933]Cmd: TRANSACTION UNDO
+[2019.11.26-09.22.15:362][933]LogEditorTransaction: Undo Set Interp Break
+[2019.11.26-09.22.19:202][123]Cmd: TRANSACTION UNDO
+[2019.11.26-09.22.19:202][123]LogEditorTransaction: Undo Set Interp Linear
+[2019.11.26-09.22.36:171][ 11]LogEditorTransaction: Undo Move Key
+[2019.11.26-09.23.07:219][675]LogEditorTransaction: Undo Drag Entry Tangent
+[2019.11.26-09.23.07:912][706]LogEditorTransaction: Undo Set Interp Auto
+[2019.11.26-09.23.08:511][736]LogEditorTransaction: Undo Set Interp Linear
+[2019.11.26-09.23.08:849][753]LogEditorTransaction: Undo Set Interp Constant
+[2019.11.26-09.24.02:613][668]LogEditorTransaction: Undo Drag Exit Tangent
+[2019.11.26-09.24.08:660][969]Cmd: TRANSACTION UNDO
+[2019.11.26-09.24.08:660][969]LogEditorTransaction: Undo Set Interp Auto
+[2019.11.26-09.24.54:656][384]Cmd: TRANSACTION UNDO
+[2019.11.26-09.24.54:656][384]LogEditorTransaction: Undo Set Playback Range
+[2019.11.26-09.25.17:999][272]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-09.25.25:018][553]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.11.26-09.25.29:912][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.25.40:024][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.25.59:484][895]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor27)
+[2019.11.26-09.26.32:255][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.26.37:716][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.26.50:581][118]Cmd: TRANSACTION UNDO
+[2019.11.26-09.26.50:581][118]LogEditorTransaction: Undo Move Actors
+[2019.11.26-09.26.52:533][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.27.14:769][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.27.28:969][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.27.43:599][933]Cmd: TRANSACTION UNDO
+[2019.11.26-09.27.43:599][933]LogEditorTransaction: Undo Move Actors
+[2019.11.26-09.27.48:618][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.28.12:994][545]Cmd: TRANSACTION UNDO
+[2019.11.26-09.28.12:994][545]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.28.29:483][425]Cmd: TRANSACTION UNDO
+[2019.11.26-09.28.29:483][425]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.29.22:585][276]LogEditorTransaction: Undo Move Key
+[2019.11.26-09.29.26:428][473]Cmd: TRANSACTION UNDO
+[2019.11.26-09.29.26:428][473]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.29.29:155][602]Cmd: TRANSACTION UNDO
+[2019.11.26-09.29.29:155][602]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.30.13:073][989]Cmd: TRANSACTION UNDO
+[2019.11.26-09.30.13:073][989]LogEditorTransaction: Undo Move Key
+[2019.11.26-09.31.00:391][261]Cmd: TRANSACTION UNDO
+[2019.11.26-09.31.00:391][261]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.31.03:779][409]Cmd: TRANSACTION UNDO
+[2019.11.26-09.31.03:779][409]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.31.05:635][479]Cmd: TRANSACTION UNDO
+[2019.11.26-09.31.05:635][479]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.31.06:996][530]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.26-09.31.12:848][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.31.29:682][418]Cmd: TRANSACTION UNDO
+[2019.11.26-09.31.29:682][418]LogEditorTransaction: Undo Move Keys or Sections
+[2019.11.26-09.32.24:994][864]Cmd: TRANSACTION UNDO
+[2019.11.26-09.32.24:994][864]LogEditorTransaction: Undo Set Key Value
+[2019.11.26-09.33.54:014][470]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.11.26-09.33.55:162][470]LogSavePackage: Moving '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/ShotScene55EF87AD4C351ED0DF56F8B0E9E6D94C.tmp' to '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Scene/ShotScene.umap'
+[2019.11.26-09.33.55:451][470]LogSavePackage: Moving '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/ShotScene_BuiltDataEBB1C4274C7DF17C228E59A3CDC4A17D.tmp' to '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Scene/ShotScene_BuiltData.uasset'
+[2019.11.26-09.33.59:443][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-09.34.00:837][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.11.26-09.34.00:848][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.26-09.34.00:866][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/03" FILE="../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Sequence/03.uasset" SILENT=true
+[2019.11.26-09.34.00:973][739]LogSavePackage: Moving '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/03AF9F8DC94D00B31697D9A7BA2A49CCB0.tmp' to '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Sequence/03.uasset'
+[2019.11.26-09.34.00:983][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/30" FILE="../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Sequence/30.uasset" SILENT=true
+[2019.11.26-09.34.01:102][739]LogSavePackage: Moving '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/30F33A58C643825662EBEB3CA71431638A.tmp' to '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Sequence/30.uasset'
+[2019.11.26-09.34.01:225][739]LogSavePackage: Moving '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/MobilePhone_D2EFA313E74E36250A8A84C8B61FC2A479.tmp' to '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Assets/CellPhone/MobilePhone_D2.uasset'
+[2019.11.26-09.34.01:324][739]LogSavePackage: Moving '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Saved/MobilePhone_AOC16B99E1405EA316FABDFEB2F4F0C974.tmp' to '../../../../../OneDrive/OneDrive - University of Utah/Fall 2019/Machinima/JessiesGirl/JessiesGirl/Content/Assets/CellPhone/MobilePhone_AO.uasset'
+[2019.11.26-09.34.06:605][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-09.34.14:061][373]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.34.14:064][373]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.34.14:347][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.34.14:350][383]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.34.15:043][407]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.34.15:046][407]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.34.27:739][ 84]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.34.31:712][233]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.34.38:843][535]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.34.43:714][733]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Scene/ShotScene.ShotScene:PersistentLevel.HEARTOBJ_5.StaticMeshComponent0' 
+[2019.11.26-09.37.24:880][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.26-09.37.39:193][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.26-09.37.39:259][989]LogSlate: Window 'JessiesGirl - Unreal Editor' being destroyed
+[2019.11.26-09.37.39:486][990]Cmd: QUIT_EDITOR
+[2019.11.26-09.37.39:535][990]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.26-09.37.39:554][990]LogExit: Preparing to exit.
+[2019.11.26-09.37.40:046][990]LogExit: Editor shut down
+[2019.11.26-09.37.40:048][990]LogExit: Transaction tracking system shut down
+[2019.11.26-09.37.40:553][990]LogExit: Object subsystem successfully closed.
+[2019.11.26-09.37.40:582][990]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.26-09.37.40:594][990]LogD3D11RHI: Shutdown
+[2019.11.26-09.37.40:594][990]LogD3D11RHI: CleanupD3DDevice
+[2019.11.26-09.37.40:598][990]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.26-09.37.40:598][990]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.26-09.37.40:598][990]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.26-09.37.40:598][990]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.26-09.37.40:598][990]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.26-09.37.40:598][990]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.26-09.37.40:950][990]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.26-09.37.41:044][990]LogModuleManager: Shutting down and abandoning module TextureEditor (644)
+[2019.11.26-09.37.41:044][990]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (642)
+[2019.11.26-09.37.41:044][990]LogModuleManager: Shutting down and abandoning module StatsViewer (640)
+[2019.11.26-09.37.41:044][990]LogModuleManager: Shutting down and abandoning module SequencerWidgets (638)
+[2019.11.26-09.37.41:044][990]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (636)
+[2019.11.26-09.37.41:044][990]LogModuleManager: Shutting down and abandoning module SceneOutliner (634)
+[2019.11.26-09.37.41:044][990]LogModuleManager: Shutting down and abandoning module AddContentDialog (632)
+[2019.11.26-09.37.41:047][990]LogModuleManager: Shutting down and abandoning module WidgetCarousel (631)
+[2019.11.26-09.37.41:047][990]LogModuleManager: Shutting down and abandoning module EditorWidgets (628)
+[2019.11.26-09.37.41:047][990]LogModuleManager: Shutting down and abandoning module CollectionManager (626)
+[2019.11.26-09.37.41:047][990]LogModuleManager: Shutting down and abandoning module FoliageEdit (624)
+[2019.11.26-09.37.41:047][990]LogModuleManager: Shutting down and abandoning module LandscapeEditor (622)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module MeshPaintMode (620)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (618)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module ActorPickerMode (616)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module GeometryMode (614)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module TextureAlignMode (612)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module BspMode (610)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (608)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (606)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module AutomationWorker (604)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module OculusMR (602)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (600)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (598)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (596)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module PlacementMode (595)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module MaterialEditor (594)
+[2019.11.26-09.37.41:048][990]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (590)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (588)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (586)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (584)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (582)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module WebMMedia (580)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (578)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (576)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (572)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (570)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (568)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (566)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (564)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (562)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (560)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (558)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (556)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (554)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (552)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module CharacterAI (550)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module SmartSnapping (548)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module SessionServices (546)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module MeshPaint (544)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module ViewportSnapping (542)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module ViewportInteraction (540)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module ClothPainter (538)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (537)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module LogVisualizer (534)
+[2019.11.26-09.37.41:049][990]LogModuleManager: Shutting down and abandoning module IntroTutorials (532)
+[2019.11.26-09.37.41:050][990]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (531)
+[2019.11.26-09.37.41:050][990]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (528)
+[2019.11.26-09.37.41:050][990]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (526)
+[2019.11.26-09.37.41:050][990]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (524)
+[2019.11.26-09.37.41:050][990]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (522)
+[2019.11.26-09.37.41:050][990]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (521)
+[2019.11.26-09.37.41:087][990]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (518)
+[2019.11.26-09.37.41:087][990]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (516)
+[2019.11.26-09.37.41:087][990]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (514)
+[2019.11.26-09.37.41:087][990]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (512)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (510)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module InputBindingEditor (508)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module MergeActors (506)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (504)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module LocalizationService (503)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module HardwareTargeting (500)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (498)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module UndoHistory (496)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module XmlParser (494)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module Blutility (492)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (490)
+[2019.11.26-09.37.41:088][990]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (489)
+[2019.11.26-09.37.41:089][990]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (486)
+[2019.11.26-09.37.41:089][990]LogModuleManager: Shutting down and abandoning module SettingsEditor (484)
+[2019.11.26-09.37.41:089][990]LogModuleManager: Shutting down and abandoning module ProjectLauncher (482)
+[2019.11.26-09.37.41:089][990]LogModuleManager: Shutting down and abandoning module SessionFrontend (480)
+[2019.11.26-09.37.41:089][990]LogModuleManager: Shutting down and abandoning module ProfilerClient (478)
+[2019.11.26-09.37.41:089][990]LogModuleManager: Shutting down and abandoning module DeviceManager (476)
+[2019.11.26-09.37.41:089][990]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (475)
+[2019.11.26-09.37.41:133][990]LogModuleManager: Shutting down and abandoning module AutomationController (472)
+[2019.11.26-09.37.41:133][990]LogModuleManager: Shutting down and abandoning module AutomationWindow (470)
+[2019.11.26-09.37.41:133][990]LogModuleManager: Shutting down and abandoning module Layers (468)
+[2019.11.26-09.37.41:133][990]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (466)
+[2019.11.26-09.37.41:133][990]LogModuleManager: Shutting down and abandoning module DetailCustomizations (464)
+[2019.11.26-09.37.41:133][990]LogModuleManager: Shutting down and abandoning module PackagesDialog (462)
+[2019.11.26-09.37.41:133][990]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (460)
+[2019.11.26-09.37.41:133][990]LogModuleManager: Shutting down and abandoning module Persona (458)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (457)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module AnimGraph (455)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module Kismet (452)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module GraphEditor (450)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module ClassViewer (448)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module Toolbox (446)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module ModuleUI (444)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module MovieSceneTools (442)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module OutputLog (440)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module GammaUI (438)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module Documentation (436)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module LiveCoding (434)
+[2019.11.26-09.37.41:134][990]LogModuleManager: Shutting down and abandoning module LevelSequence (432)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (430)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module MovieScene (428)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (426)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module LauncherPlatform (424)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module AnalyticsET (422)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module PortalServices (420)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module PortalRpc (418)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module MessagingRpc (416)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module AIModule (414)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module GameplayDebugger (413)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module AITestSuite (411)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module NavigationSystem (409)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module DesktopPlatform (406)
+[2019.11.26-09.37.41:135][990]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2019.11.26-09.37.41:139][990]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module OculusEditor (394)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2019.11.26-09.37.41:280][990]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (366)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (364)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (362)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module HTML5Networking (360)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (358)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (356)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module BackChannel (354)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module AppleVision (352)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (350)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module AppleImageUtils (348)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module AlembicImporter (346)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module AlembicLibrary (345)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module GeometryCache (344)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (343)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module VariantManagerContent (338)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (336)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (334)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module PluginBrowser (332)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (330)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (328)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (326)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module CryptoKeys (324)
+[2019.11.26-09.37.41:281][990]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (320)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module UObjectPlugin (318)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (316)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (314)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module GitSourceControl (312)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module SourceControl (311)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (308)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (306)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (304)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (302)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module SignificanceManager (292)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (290)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (288)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module PhysXVehicles (286)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2019.11.26-09.37.41:282][990]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2019.11.26-09.37.41:384][990]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (276)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (274)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (272)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (270)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module MagicLeapController (268)
+[2019.11.26-09.37.41:485][990]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module MagicLeapAR (266)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module AugmentedReality (265)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (262)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (260)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module FacialAnimation (258)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module DataValidation (256)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (254)
+[2019.11.26-09.37.41:485][990]LogModuleManager: Shutting down and abandoning module LevelEditor (253)
+[2019.11.26-09.37.41:487][990]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (252)
+[2019.11.26-09.37.41:487][990]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (250)
+[2019.11.26-09.37.41:487][990]LogModuleManager: Shutting down and abandoning module MainFrame (248)
+[2019.11.26-09.37.41:487][990]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2019.11.26-09.37.41:488][990]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module TreeMap (241)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module AnimationSharing (238)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (236)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module AISupportModule (234)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (228)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module MediaAssets (220)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2019.11.26-09.37.41:491][990]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2019.11.26-09.37.41:492][990]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module UnrealEd (184)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module Core (172)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (165)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (163)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2019.11.26-09.37.41:494][990]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2019.11.26-09.37.41:544][990]LogDerivedDataCache: Shutdown
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module XGEController (150)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2019.11.26-09.37.41:544][990]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (117)
+[2019.11.26-09.37.41:556][990]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2019.11.26-09.37.41:556][990]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2019.11.26-09.37.41:556][990]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2019.11.26-09.37.41:556][990]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2019.11.26-09.37.41:556][990]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2019.11.26-09.37.41:562][990]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2019.11.26-09.37.41:562][990]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2019.11.26-09.37.41:566][990]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2019.11.26-09.37.41:567][990]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2019.11.26-09.37.41:604][990]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (89)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (87)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (85)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (83)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (81)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2019.11.26-09.37.41:605][990]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2019.11.26-09.37.41:606][990]LogModuleManager: Shutting down and abandoning module PhysXCooking (72)
+[2019.11.26-09.37.41:606][990]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.26-09.37.41:606][990]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.26-09.37.41:606][990]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.26-09.37.41:606][990]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.26-09.37.41:606][990]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.26-09.37.41:607][990]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.26-09.37.41:607][990]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.26-09.37.41:630][990]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.26-09.37.41:630][990]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.26-09.37.41:630][990]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F79244A-4FFB-C56C-3631-80958F662238%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=cac7d3ec42c521caed84dc91d44f3a4a%7Cf987db4c537846cda6aea81b7c6bb945%7Cc2c9b893-6a27-4508-b5c4-5ed46d8db6a5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.26-09.37.41:638][990]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.26-09.37.41:640][990]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.26-09.37.41:643][990]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.26-09.37.41:650][990]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.26-09.37.41:650][990]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.26-09.37.41:650][990]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.26-09.37.41:650][990]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.26-09.37.41:651][990]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.26-09.37.41:652][990]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.26-09.37.41:653][990]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.26-09.37.41:653][990]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.26-09.37.41:653][990]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.26-09.37.41:654][990]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.26-09.37.41:655][990]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.26-09.37.41:655][990]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.26-09.37.41:663][990]LogExit: Exiting.
+[2019.11.26-09.37.41:693][990]Log file closed, 11/26/19 02:37:41
